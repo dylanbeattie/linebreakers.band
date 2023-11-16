@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Linebreakers
+description: "Specs, bugs, and rock'n'roll"
 theme: just-the-docs
+color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: https://linebreakers.band
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template

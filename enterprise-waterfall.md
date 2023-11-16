@@ -1,12 +1,10 @@
 ---
 title: Enterprise Waterfall
-layout: home
+original_title: "Another Brick In The Wall (Pt 2)"
+original_artist: Pink Floyd
+layout: song
 ---
-
-# Enterprise Waterfall
-*(Another Brick in the Wall - Pink Floyd)*
-
-```
+```lyrics
 We don't test our integrations
 We don't use no source control
 We can't deploy things to production

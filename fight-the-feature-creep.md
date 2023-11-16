@@ -1,15 +1,13 @@
 ---
 title: Fight the Feature Creep
-layout: home
+original_title: "Rolling in the Deep (Adele)"
+layout: song
 ---
-
-# Fight the Feature Creep
-*(Rollling in the Deep - Adele)*
-
-```
+```lyrics
+     Bm    A    C#
 There's a requirement, on top of my stack,
 Seeking enlightenment, I message you on Slack,
-I don't see, why we're waiting to go live
+I don't see why we're waiting to go live
 Our funding ran out months ago, we're struggling to survive 
 
 Nobody needs, all this shit you're specifying
@@ -20,7 +18,7 @@ No way we'll ship them all while we're still in the black
 The project backlog’s a hundred miles long,
 You keep saying, we’ve gotta have it all,
 The project backlog’s a hundred miles long,
-I can’t help thinking… 
+I can’t help thinking…
 
 We ought to cut ‘em all (haven't got a clue)
 Fight the feature creep, (what is MVP)
