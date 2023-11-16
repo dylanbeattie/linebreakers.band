@@ -1,6 +1,7 @@
 ---
 title: Fight the Feature Creep
-original_title: "Rolling in the Deep (Adele)"
+original_title: "Rolling in the Deep"
+original_artist: Adele
 layout: song
 ---
 ```lyrics
@@ -20,151 +21,110 @@ Cm                    Gm
 Nobody needs all this shit you're specifying
 Bb                              Gm             Bb
 Developers are burning out, the CFO is crying
-Cm             Gm
-There's a fire starting in my heart
+Cm                      Gm
+All these requirements, sat here on my stack,
 Bb                               Gm                       Bb
-Reaching a fever pitch, and it's bringing me out the dark
- 
+No way we'll ship them all while we're still in the black
  
 [Pre-Chorus]
  
-G#              Bb                   Gm
-   The scars of your love, remind me of us
-             G#                          Bb G#
-They keep me thinking that we almost had it all
+Ab              Bb                   Gm
+The project backlog’s a hundred miles long,
+             Ab                          Bb Ab
+You keep on saying, we’ve gotta have it all,
              Bb                       Gm
-The scars of your love, they leave me breathless
+The project backlog’s a hundred miles long,
              G7#5
-I can't help feeling...
- 
- 
+I can’t help thinking…
+  
 [Chorus]
- 
-                     Cm                             Bb
-We could have had it all... (You're gonna wish you, never had met me)...
-               G#                          G#             Bb
-Rolling in the deep (Tears are gonna fall, rolling in the deep)
-    (Bb)                                          Cm            Bb
-You had my heart... (you're gonna wish you)... Inside of your hand (Never had met me)
-           G#                                          G#                  Bb
-And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)
- 
+                     Cm                       Bb                     
+We ought to cut ‘em all 
+                    (haven't got a clue, what is MVP)
+               Ab                         Bb
+Fight the feature creep, 
+                (like a waterfall, features gonna creep)
+    (Bb)                Cm           Bb
+Right from the start we tried, had a plan 
+                    (haven't got a clue, what is MVP)                         
+        Ab             Bb
+But you say it’s incomplete 
+                (like a waterfall, features gonna creep)
  
 [Verse]
  
-Cm              Gm
-Baby, I have no story to be told,
-    Bb                             Gm                        Bb
-But I've heard one on you. Now I'm gonna make your head burn
 Cm                 Gm
-Think of me in the depths of your despair
-Bb                         Gm                        Bb
-Make a home down there, as mine sure won't be shared
+Maybe I don't know what we should have done,
+    Bb                          Gm                    Bb
+But our nearest competitor just shipped their version 1,
+   Cm                              Gm
+It doesn't run on blockchain, scan Facebook for your friends
+     Bb                             Gm                 Bb
+They hit a million signups in their opening weekend,
  
- 
-[Pre-Chorus]
- 
-G#              Bb                   Gm
-   The scars of your love, remind me of us. (You're gonna wish you, never had met me)
-             G#                             G#
-They keep me thinking that we almost had it all (Tears are gonna fall, rolling in the deep)
+Ab              Bb                   Gm
+    The project backlog’s a hundred miles long,
+                    (haven't got a clue, what is MVP)
+             Ab                             Ab
+You keep on saying, we’ve gotta have it all,
+                (like a waterfall, features gonna creep)
              Bb                       Gm
-The scars of your love, they leave me breathless (You're gonna wish you, never had met me)
+The project backlog’s a hundred miles long,
+                    (haven't got a clue, what is MVP)
              G7
-I can't help feeling... (Tears are gonna fall, rolling in the deep)
+I can’t help thinking…
+                (like a waterfall, features gonna creep)
+
+[Chorus] 
+ 
+                     Cm                       Bb                     
+We ought to cut ‘em all 
+                    (haven't got a clue, what is MVP)
+               Ab                         Bb
+Fight the feature creep, 
+                (like a waterfall, features gonna creep)
+    (Bb)                Cm           Bb
+Right from the start we tried, had a plan 
+                    (haven't got a clue, what is MVP)                         
+        Ab             Bb
+But you say it’s incomplete 
+                (like a waterfall, features gonna creep)
  
  
-[Chorus]
+[Interlude - Chorus Variation]
  
-                     Cm                              Bb
-We could have had it all...  (You're gonna wish you, never had met me)...
-               G#                          G#             Bb
-Rolling in the deep (Tears are gonna fall, rolling in the deep)
-    (Bb)                                          Cm            Bb
-You had my heart... (you're gonna wish you)... Inside of your hand (Never had met me)
-           G#                                          G#                  Bb
-And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)
- 
- 
-[Interlude]
- 
-(Bb)               G#    Bb
-Could have had it all
+(Bb)               Ab    Bb
+We ought to cut ‘em all 
                Cm     Bb
-Rolling in the deep
-                   G#            G#
-You had my heart inside of your hand
+Fight the feature creep, 
+                   Ab            Ab
+Right from the start we tried, had a plan 
            Bb                 Bb
-But you played it    with a beating
+But you say it’s incomplete 
  
  
 [Verse]
  
 N.C.
-Throw yourself through every open door (Whoa)
- 
-Count your blessings to find what you look for (Whoa-uh)
-Cm
-Turn my sorrow into treasured gold (Whoa)
- 
-You'll pay me back in kind and reap just what you sow.
- 
- 
-[Chorus]
- 
- Cm                     Bb
-(You're gonna wish you, never had met me)
-                     G#                         G#             Bb
-We could have had it all (Tears are gonna fall, rolling in the deep)
-   (Bb)               Cm                               Bb
-We could have had it all yeah (You're gonna wish you, never had met me)
-   G#                  G#                                        Bb
-It all,   It all,   It all (Tears are gonna fall, rolling in the deep)
- 
-   (Bb)               Cm                          Bb
-We could have had it all (You're gonna wish you, never had met me)
-               G#                          G#             Bb
-Rolling in the deep (Tears are gonna fall, rolling in the deep)
-    (Bb)                                    Cm            Bb
-You had my heart (you're gonna wish you) Inside of your hand (Never had met me)
-           G#                                    G#                  Bb
-And you played it (Tears are gonna fall) To the beat (Rolling in the deep)
- 
-   (Bb)               Cm                          Bb
-We could have had it all (You're gonna wish you, never had met me)
-               G#                          G#             Bb
-Rolling in the deep (Tears are gonna fall, rolling in the deep)
-    (Bb)                                    Cm            Bb
-You had my heart (you're gonna wish you) Inside of your hand (Never had met me)
-           G#                            G#
-But you played it. You played it. You played it.
-       Bb            Cm
-You played it to the beat.
-
-     Bm    A    C#
-
-Nobody needs, all this shit you're specifying
-Developers are burning out, the CFO is crying,
-All these requirements, sat here on my stack,
-No way we'll ship them all while we're still in the black
-
-The project backlog’s a hundred miles long,
-You keep saying, we’ve gotta have it all,
-The project backlog’s a hundred miles long,
-I can’t help thinking…
-
-We ought to cut ‘em all (haven't got a clue)
-Fight the feature creep, (what is MVP)
-Right from the start we tried, had a plan (like a waterfall)
-But you say it’s incomplete (features gonna creep)
-
-Maybe I don't know what we should have done,
-But our nearest competitor just shipped their version 1,
-It doesn't run on blockchain, scan Facebook for your friends
-They hit a million signups in their opening weekend,
-
 Cut your road map, cut it to the bone
 Nobody cares if we run on Windows Phone
 Nobody’s buying, the vision that you sold,
 Maybe time to pick up the agile manifesto
+ 
+[Chorus Variant 2] 
+ Cm                     Bb
+(Haven't got a clue, what is MVP)
+                                We ought to cut them all
+                     Ab                         Ab             Bb
+(Like a waterfall, features gonna creep)
+                                We ought to cut them all
+   (Bb)               Cm                               Bb
+(Haven't got a clue, what is MVP)
+                                We ought to cut them all
+               Ab                Bb
+(Like a waterfall, features gonna creep)
+        them all,   them all 
+ 
+
+[Chorus x 2] 
 ```
