@@ -1,5 +1,5 @@
 ---
-title: MAclife
+title: MacLife
 original_title: Parklife
 original_artist: Blur
 layout: song
