@@ -4,7 +4,7 @@ original_title: "Pretty Fly (For a White Guy)"
 original_artist: The Offspring
 layout: song
 ---
-```lyrics
+```I did my best to fix it,
 Give it to me, baby, huh huh, huh huh
 Give it to me, baby, huh huh, huh huh
 Give it to me, baby, huh huh, huh huh
