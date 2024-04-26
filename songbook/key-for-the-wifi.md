@@ -3,13 +3,14 @@ title: Key for the Wifi
 original_title: "Pretty Fly (For a White Guy)"
 original_artist: The Offspring
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/vthop9tz2oea4p88dn3x8/Key-To-Your-WiFi.mp4?rlkey=aipvzczyag0m7ar2gvbc2ygyy&dl=1
 ---
-```I did my best to fix it,
+```lyrics
 Give it to me, baby, huh huh, huh huh
 Give it to me, baby, huh huh, huh huh
 Give it to me, baby, huh huh, huh huh
 'Cos if I'm gonna stay, I need the  key for the wi-fi,
- 
+
 Uno, dos, tres, cuatro, cinco, cinco, seis
 
 They say it's kinda hard to get a job today

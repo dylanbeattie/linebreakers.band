@@ -24,8 +24,8 @@ Tech sales!
 Every day they’re out there making tech sales!
 Signing up and lining up train wreck sales!
 
-C-c-c-commission! Global markets! 
-They’re on a mission, hit those targets! 
+C-c-c-commission! Global markets!
+They’re on a mission, hit those targets!
 That’s the reason they got into tech sales
 
 Tech sales!

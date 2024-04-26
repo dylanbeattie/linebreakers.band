@@ -3,12 +3,13 @@ title: Enter Stallman
 original_title: Enter Sandman
 original_artist: Metallica
 layout: song
+dropbox: https://www.dropbox.com/s/2r3i5mrs1vytq7o/Enter%20Sandman%20%28Exit%20Stallman%29%20-%20Solo%20Mix.mp4?dl=1
 ---
 ```lyrics
 Make it work, make it run,
 And when your code is done,
 Share it with everyone,
-MIT, GPL, 
+MIT, GPL,
 Choosing can be hell,
 But any’s better than none,
 

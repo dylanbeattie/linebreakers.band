@@ -3,17 +3,18 @@ title: MacLife
 original_title: Parklife
 original_artist: Blur
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/gilu8kr8v5toobmzxys19/MacLife-Trio-Mix.mp4?rlkey=dptepwt6netmfhhijhuhkm53r&dl=1
 ---
 ```lyrics
-The conference is a reference 
+The conference is a reference
 for the habitual buyeur of what is known as... MACLIFE!
-Infinite Loop can’t be avoided 
+Infinite Loop can’t be avoided
 if you take a route straight to what is known as MACLIFE!
-John’s got Windows 10 
-he gets intimidated by the terminal, 
+John’s got Windows 10
+he gets intimidated by the terminal,
 He just likes clicking things MACLIFE
-What’s that Linux desktop, 
-you should cut down on your hack life, mate, 
+What’s that Linux desktop,
+you should cut down on your hack life, mate,
 get some Apple style
 
 Shiny Apple,
@@ -22,14 +23,14 @@ We all go, cash in hand,
 Cash in hand for their MACLIFE
 Know what I mean?
 
-I reboot when I want, except at weekends 
+I reboot when I want, except at weekends
 when iTunes rudely crashes with a beachball (MACLIFE)
-I sort my dongles out, put on my Apple Watch 
+I sort my dongles out, put on my Apple Watch
 and imagine right-clicking a mouse MACLIFE
-I keep my iPhones, I sometimes keep my iPads too, 
+I keep my iPhones, I sometimes keep my iPads too,
 it gives me a sense of enormous well-being MACLIFE
-And then I'm happy for the rest of my life, 
-safe in the knowledge there will always be 
+And then I'm happy for the rest of my life,
+safe in the knowledge there will always be
 a drawer in my house devoted to them
 
 Shiny Apple,

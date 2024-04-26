@@ -3,6 +3,7 @@ title: Learn vi
 original_title: "Learn to Fly"
 original_artist: Foo Fighters
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/9esdskz2ub1z0dqvl2qxj/Learn-vi-CPH-Dev-Fest.mp4?rlkey=hxoys3mhclu8b4v0htkeicwts&dl=1
 ---
 ```lyrics
 Running through all of the changes,
@@ -35,7 +36,7 @@ Make my way back home when I learn vi
 So long Sublime, farewell to VS Code,
 Spend my life in insert mode, vi,
 So long Sublime, farewell to VS Code,
-Spend my life in insert mode 
+Spend my life in insert mode
 
 Now I broke my X11 config, Cannot open the UI,
 Gonna have to fix this from the command line,

@@ -3,11 +3,12 @@ title: Meetup 2020
 original_title: Disco 2000
 original_artist: Pulp
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/2v4ypuf35tbjefqynxnzg/Meetup-2020-Trio-Mix.mp4?rlkey=13y9plf805p41albuts4qh0ay&dl=1
 ---
 Key: E (original Pulp recording is in F)
 
 ```lyrics
-Note: We play this in A (chords A, E, Bm, C#m F#m) - the original by Pulp is in Bb. 
+Note: We play this in A (chords A, E, Bm, C#m F#m) - the original by Pulp is in Bb.
 
 Intro:
 E Esus4 E/Esus4/E
@@ -29,7 +30,7 @@ We got to stay at least a metre apart,
           A               A
 Wear a mask, wash your hands, say goodbye to all your plans.
 
- 
+
 [Pre-Chorus]
            Bm
 Oh, do you recall?
@@ -38,7 +39,7 @@ The world felt very small,
 Then it all slowed to a crawl,
                              E
 You know I really missed you all...
- 
+
 [Chorus]
 And I said,
 A
@@ -55,7 +56,7 @@ Certainly better than drinking on our own,
                                Bm                  E
 You might lose inhibitions but you won’t lose your phone
 
- 
+
 [Verse 2]
 I'm trying to keep up with the news,
 But all the guidance leaves me scared and confused,
@@ -67,7 +68,7 @@ Well now we're all grounded, it's not as much fun as it sounded,
 
 [Pre-Chorus]
 [Chorus]
- 
+
 [Outro]
 A
 What do you do on a lockdown Monday?

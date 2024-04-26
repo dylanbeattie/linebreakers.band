@@ -3,6 +3,7 @@ title: Run in the Cloud With Me
 original_title: Lay All Your Love On Me
 original_artist: ABBA
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/gzra6adh4o18hcu6theew/Run-In-The-Cloud-With-Me-Trio-Mix.mp4?rlkey=jvw156heg19y48qwnu30x20vq&dl=1
 ---
 ```lyrics
 You used to build all your own machines
@@ -15,7 +16,7 @@ And all you've learned has overturned, I'm telling you
 Don't go wasting your resources
 Run in the cloud with me
 
-It started slow, now it’s everywhere, 
+It started slow, now it’s everywhere,
 First the machines, then the network, now it's all software
 Not the career that you had planned,
 A grown-up engineer with your own anti-static band,***

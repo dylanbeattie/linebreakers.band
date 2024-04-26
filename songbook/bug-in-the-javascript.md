@@ -3,6 +3,7 @@ title: Bug in the JavaScript
 original_title: Piano Man
 original_artist: Billy Joel
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/k3dlvwtb6a3eyjjmptcge/Bug-in-the-JavaScript-Solo-Mix.mp4?rlkey=q6flw2gugv50di3eikaap3uno&dl=1
 ---
 ```lyrics
 It's nine-o-clock on a Saturday,
@@ -12,7 +13,7 @@ And you're not going out 'till it's done,
 
 You've tuned all the database indexes,
 You've checked your API hooks,
-And you're starting to think, 
+And you're starting to think,
 that you might need that drink
 'Cos there's only one place left to look...
 

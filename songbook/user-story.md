@@ -3,6 +3,7 @@ title: User Story
 original_title: Love Story
 original_artist: Taylor Swift
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/h82p84b5wurq3usc9ay8j/User-Story.mp4?rlkey=lise8qz0vewm7ejq0c749awxz&dl=1
 ---
 Chords are D / A / Bm / G, but there’s a nice arpeggio pattern based around Dsus2/Asus4/Bmadd11/G6/9
 
@@ -33,14 +34,14 @@ Intro: (w/arpeggio)
 Dsus2  Asus4/E  Bm  G
 
 Dsus2
-We were nearly done when I first saw you 
+We were nearly done when I first saw you
   G
 I close my eyes and the flashback starts
                 Bm
 You're standing there
                          G
 And you're talking about middleware
-Dsus2 
+Dsus2
 Friday night, getting ready to shut down
 G
 See us getting ready to head out of town
@@ -52,7 +53,7 @@ That'd you'd already sold it to the highest bidder
 Despite the fact we hadn't even built it yet
                G
 And now you're hoping for a miracle
-Asus4                 Bm     G   Asus4  
+Asus4                 Bm     G   Asus4
 begging my team don't go...          and you said
 
 D
@@ -102,7 +103,7 @@ It's a user story, why did we say yes...
 
 [Solo]
 | D    | D    | Asus4   | A   |Bm  |Bm  | G5   | A   |
- 
+
 (A)               Bm      G5                D                  A
    Getting so frustrating   Wondering which way this was going to go
                Bm      G5          D                 A

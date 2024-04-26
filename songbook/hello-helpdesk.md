@@ -3,6 +3,7 @@ title: Hello Helpdesk
 original_title: Burning Bridges
 original_artist: Status Quo
 layout: song
+dropbox: https://www.dropbox.com/s/9bom75hqydqkuns/Hello%20Helpdesk%20-%20Solo%20Mix.mp4?dl=1
 ---
 
 Sheet music for instrumental parts: [hello-helpdesk.pdf](pdfs/hello-helpdesk.pdf)
@@ -26,7 +27,7 @@ Let’s check that your browser cache is cleared
     D                   A    E   D            A
 Turn it off and on again,        Check the power supply
 D                                A/Db           B           E    E7
-Worked, but now it’s gone again, One more thing that we can try 
+Worked, but now it’s gone again, One more thing that we can try
 D                       A   E   D               A
 Press Control and try again,    It works, we don’t know why
 D

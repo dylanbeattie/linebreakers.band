@@ -3,19 +3,20 @@ title: Monads
 original_title: Alice
 original_artist: Smokie
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/3mesdys9ppu1kae71no0a/Monads-Trio-Mix.mp4?rlkey=j7ciwnb2swe4qw8xxtprjxtxj&dl=1
 ---
 ```lyrics
 
-  A                                        
-I first met Alice in a small bookstore"   
+  A
+I first met Alice in a small bookstore"
 D
   What book, - I asked, - are you looking for?"
 E                            A           E
 And she said: "a book… about monads"
 
-  A                                      
+  A
 I understood, that's the key to her heart,
-D 
+D
   I had no doubt, thought I was pretty smart,
 E                                    A                 E
    I thought it would be easy, right from the start…
@@ -28,7 +29,7 @@ I’m sure that there’s a reason, someone gets it but I don’t,
 ‘Cos for twenty-four years, I’ve been trying to understand, the monads
         E
 (audience: MONADS? WHAT THE FUCK ARE MONADS?)
-A 
+A
 Twenty-four years, just waiting for a chance,
   D
 I have to keep on reading, maybe take a second glance
@@ -38,16 +39,16 @@ I will never get used, to trying to make sense of monads
 (audience: MONADS? WHAT THE FUCK ARE MONADS?)
 
 
-We worked together, on the same team, 
+We worked together, on the same team,
 Chasing the same, impossible dream,
 To understand the monads,
-Too old for rock’n’roll, now I’m forty-four, 
-But I still have a hope, if that’s the score, 
+Too old for rock’n’roll, now I’m forty-four,
+But I still have a hope, if that’s the score,
 That I’m just too young for monads..
 
 I’m tired of believing all the things I gotta know,
 I’m sure that there’s a reason, someone gets it but I don’t,
-‘Cos for twenty-four years, I’ve been trying to understand, the monads 
+‘Cos for twenty-four years, I’ve been trying to understand, the monads
         E
 (audience: MONADS? WHAT THE FUCK ARE MONADS?)
 Twenty-four years, just waiting for a chance,

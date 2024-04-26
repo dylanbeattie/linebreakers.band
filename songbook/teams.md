@@ -3,6 +3,7 @@ title: Teams
 original_title: Steam
 original_artist: Peter Gabriel
 layout: song
+dropbox: https://www.dropbox.com/scl/fi/z4c6hp93gxxk591akxe35/Teams-Trio-Mix.mp4?rlkey=xa387jriok1sma24u3lzsfg99&dl=1
 ---
 ```lyrics
 [Intro]
@@ -16,9 +17,9 @@ Forget Slack!
 G
 Company meeting, everybody’s out of sync,
 G
-I'm trying to join, 
+I'm trying to join,
 G                             D
-clicking on, clicking on this link, this link 
+clicking on, clicking on this link, this link
 
 [Chorus]
       A#
@@ -44,12 +45,12 @@ Your virtual background’s pretty neat,
 When all the other tools are down, there’s always gather.town, and ICQ
 
 [Verse 3]
-You know your way around online, 
+You know your way around online,
 You know your Hopin from your PINE,
 You know the time in Amsterdam, Seattle, Milan, and Timbuktu
 You speak at virtual events,
 Can't even see your audience,
-It's like you're talking to the void, 
+It's like you're talking to the void,
 it'll leave you paranoid and feeling blue,
 
 [Bridge]
@@ -66,16 +67,16 @@ Seven hours with-out a break, This is more than I can take!
 
 [Outro - all vamp on a D chord]
 D
-We're working in Teams, baby, 
-Yeah we're working in Teams, around here now, 
-Yeah, we're living in the future 
+We're working in Teams, baby,
+Yeah we're working in Teams, around here now,
+Yeah, we're living in the future
 And believing all the hype,
-Just don't ask any questions  
-about what happened to Skype, 
-We’re shipping all our features 
-Got to hit that milestone, 
-Gotta keep talking, talking, talking 
-but no-one's talking on the phone, 
+Just don't ask any questions
+about what happened to Skype,
+We’re shipping all our features
+Got to hit that milestone,
+Gotta keep talking, talking, talking
+but no-one's talking on the phone,
 We're on Teams, baby,
 We're running on Teams around here now...
 On 365
