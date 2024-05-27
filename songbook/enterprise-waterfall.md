@@ -4,6 +4,7 @@ original_title: "Another Brick In The Wall (Pt 2)"
 original_artist: Pink Floyd
 layout: song
 dropbox: https://www.dropbox.com/s/paawu394u01zduj/Enterprise%20Waterfall%20-%20Solo%20Mix.mp4?dl=1
+duration: 4:17
 ---
 ```lyrics
 We don't test our integrations

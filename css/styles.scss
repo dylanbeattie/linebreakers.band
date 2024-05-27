@@ -23,11 +23,13 @@ h1#logotype {
 	width: 600px;
 	height: 120px;
 	margin: 40px auto 0px auto;
+
 	@media (max-width: $layout-breakpoint-small) {
 		width: 90%;
 		height: 80px;
 		margin: 10px auto 0 auto;
 	}
+
 	background-image: url(../images/linebreakers-logotype-kung-font.png);
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -86,4 +88,52 @@ div {
 
 span {
 	font-family: "PT Sans Narrow", sans-serif;
+}
+
+body.page {
+	header {
+		h1#logotype {
+			float: left;
+			width: 250px;
+			height: 48px;
+			margin: 0;
+		}
+
+		h2 {
+			float: right;
+			font-size: 140%;
+			letter-spacing: 0;
+			* { letter-spacing: 0; }
+		}
+		nav {
+			clear: both;
+			border-top: 1px solid #fff;
+			border-bottom: 1px solid #fff;
+		}
+	}
+	main {
+		p {
+			clear: both;
+		}
+		margin: 16px auto;
+		max-width: 960px;
+		blockquote {
+			font-style: italic;
+			// add smart quotes before and after
+			&::before, &::after { font-weight: bold; font-family: 'Times New Roman', Times, serif; }
+			&::after { content: "”";  }
+			&::before { content: "“"; }
+		}
+		dl {
+			max-width: 60%;
+			dt { margin: 0; padding: 0; font-weight: bold; float: left; clear: left; }
+			dd { margin: 0; padding: 0;
+				float: right;
+				img {
+					width: 24px; height: 24px; display: inline-block; position: relative; top: 6px;
+				}
+			}
+		}
+
+	}
 }

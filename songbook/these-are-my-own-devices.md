@@ -4,6 +4,7 @@ original_title: Left To My Own Devices
 original_artist: Pet Shop Boys
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/qsbw5mgil1gx4vi74ddsw/These-Are-My-Own-Devices-Trio-Mix.mp4?rlkey=a1dfeq06o29wmqaxvhpro5zmu&dl=1
+duration: 4:49
 ---
 ```lyrics
 My laptop updates, to Windows 10,

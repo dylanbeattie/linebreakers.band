@@ -3,6 +3,7 @@ title: Tech Sales
 original_title: Duck Tales
 original_artist: "Mark Mueller / © Disney"
 layout: song
+duration: 2:15
 ---
 ```lyrics
 Life is like a hurricane, here in tech world,

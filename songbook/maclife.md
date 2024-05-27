@@ -4,6 +4,7 @@ original_title: Parklife
 original_artist: Blur
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/gilu8kr8v5toobmzxys19/MacLife-Trio-Mix.mp4?rlkey=dptepwt6netmfhhijhuhkm53r&dl=1
+duration: 3:20
 ---
 ```lyrics
 The conference is a reference

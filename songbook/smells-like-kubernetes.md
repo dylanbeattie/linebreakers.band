@@ -4,6 +4,7 @@ original_title: Smells Like Teen Spirit
 original_artist: Nirvana
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/yawclmqijkpdmubpylo85/Smells-Like-Kubernetes-Filthy-VHS-Mix-1280p.mp4?rlkey=q0iakl4u1wnmbgg35pvf8emrk&dl=1
+duration: 5:55
 ---
 ```lyrics
 Code is all done, the tests are green,

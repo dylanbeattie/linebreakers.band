@@ -3,6 +3,7 @@ title: "The Developer (A C Shanty)"
 original_title: "Wellerman"
 original_artist: Traditional
 layout: song
+duration: 4:00
 ---
 ```lyrics
 There once was a dev who wrote in C
@@ -23,8 +24,8 @@ The developer had to go,
 CHORUS
 
 He reinvented bubble sort, a
-thing that we were always taught, a 
-program should just hash import, a 
+thing that we were always taught, a
+program should just hash import, a
 simple thing to know
 
 CHORUS
@@ -36,7 +37,7 @@ His code was good to go,
 
 CHORUS
 
-Now everything is months off track, 
+Now everything is months off track,
 We can't go live and we can't go back,
 We've overflowed our problem stack,
 And don't know where to go

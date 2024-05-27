@@ -3,52 +3,53 @@ title: Flatscreens
 original_title: "Sunscreen"
 original_artist: Baz Luhrmann
 layout: song
+duration: 5:48
 ---
 ```lyrics
 Ladies and gentleman of the class of 2017
 
 Use flat screens.
 
-If I could offer you only one tip for the future, 
+If I could offer you only one tip for the future,
 flatscreens would be it.
 
-The benefits of flatscreens have been proved by Hollywood, 
-whereas the rest of my advice has no basis more reliable 
+The benefits of flatscreens have been proved by Hollywood,
+whereas the rest of my advice has no basis more reliable
 than my own meandering experience.
 
 I will dispense this advice… now.
 
-Enjoy the confidence and optimism of greenfield projects. 
-Oh, never mind. You will not appreciate the confidence 
-and optimism of greenfield until everything starts 
-going to hell. But trust me, when you finally ship, 
-you’ll look back at the code you wrote and recall in a 
-way you can’t grasp now how simple everything seemed, 
-and how productive you really were. 
+Enjoy the confidence and optimism of greenfield projects.
+Oh, never mind. You will not appreciate the confidence
+and optimism of greenfield until everything starts
+going to hell. But trust me, when you finally ship,
+you’ll look back at the code you wrote and recall in a
+way you can’t grasp now how simple everything seemed,
+and how productive you really were.
 
 Your code is not as bad as you imagine.
 
-Don’t worry about changing database providers. 
+Don’t worry about changing database providers.
 
-Or worry, but know that every company who ever used 
-an OR/M in case they needed to switch databases 
-never actually did it. The real problems in your 
-projects are the dependencies you don’t control; 
-the engineer who unexpectedly leaves your team 
+Or worry, but know that every company who ever used
+an OR/M in case they needed to switch databases
+never actually did it. The real problems in your
+projects are the dependencies you don’t control;
+the engineer who unexpectedly leaves your team
 at 4pm on some idle Tuesday.
 
 Learn one thing every day that scares you.
 
 Optimise.
 
-Don’t reformat other people’s codebases; 
+Don’t reformat other people’s codebases;
 don’t put up with people who reformat yours.
 
 Rebase
 
-Don’t get obsessed with frameworks. 
-Sometimes they help, sometimes they hurt. 
-It’s the user experience that matters, 
+Don’t get obsessed with frameworks.
+Sometimes they help, sometimes they hurt.
+It’s the user experience that matters,
 and the user doesn’t care how you created it.
 
 Remember the retweets you receive; forget the flame bait.
@@ -58,43 +59,43 @@ Keep your old hard drives. Throw away your old network cards.
 
 Refactor.
 
-Don’t feel guilty if you don’t understand F#. 
-Some of the most productive junior developers I’ve worked with didn’t know F#. 
+Don’t feel guilty if you don’t understand F#.
+Some of the most productive junior developers I’ve worked with didn’t know F#.
 Some of the best systems architects I know still don’t.
 
 Write plenty of tests.
 
 Be kind to your keys; you’ll miss them when they’re gone.
 
-Maybe you have a degree; maybe you don’t. 
-Maybe you have an open source project; maybe you won’t. 
-Maybe you wrote code that flew on the Space Shuttle; 
-maybe you worked on Microsoft Sharepoint. 
-Whatever you do, keep improving, 
-and don’t worry where your next gig is coming from. 
-There’s a big old world out there, 
+Maybe you have a degree; maybe you don’t.
+Maybe you have an open source project; maybe you won’t.
+Maybe you wrote code that flew on the Space Shuttle;
+maybe you worked on Microsoft Sharepoint.
+Whatever you do, keep improving,
+and don’t worry where your next gig is coming from.
+There’s a big old world out there,
 and they’re always going to need good developers.
 
-Look after your brain. 
-Don’t burn out, don’t be afraid to take a break. 
+Look after your brain.
+Don’t burn out, don’t be afraid to take a break.
 It is the most powerful computer you will ever own.
 
 Launch, even if you have no users but your own QA team.
 
 Have a plan, even if you choose not to follow it.
 
-Do NOT read the comments on YouTube: 
+Do NOT read the comments on YouTube:
 they will only make you feel angry.
 
 Cache your package dependencies; you never know when they’ll be gone for good.
 
-Read your log files. They’re your best source of information, 
+Read your log files. They’re your best source of information,
 and the first place you’ll notice if something’s starting to go wrong.
 
-Understand that languages come and go, and that it’s the 
-underlying patterns that really matter. 
-Work hard to fill the gaps in your knowledge, 
-because the wiser you get, the more you’ll regret the things 
+Understand that languages come and go, and that it’s the
+underlying patterns that really matter.
+Work hard to fill the gaps in your knowledge,
+because the wiser you get, the more you’ll regret the things
 you didn’t know when you were young.
 
 Develop in assembler once, but stop before it makes you smug.
@@ -103,28 +104,28 @@ Develop in Visual Basic once, but stop before it makes you stupid.
 
 Read.
 
-Accept certain inalienable truths: your code has bugs, 
-you will miss your deadlines, and you, too, 
-might end up in management. And when you do, 
-you’ll fantasize that back when you were a developer, 
-code was bug-free, deadlines were met, and developers 
+Accept certain inalienable truths: your code has bugs,
+you will miss your deadlines, and you, too,
+might end up in management. And when you do,
+you’ll fantasize that back when you were a developer,
+code was bug-free, deadlines were met, and developers
 tuned their database indexes.
 
 Tune your database indexes.
 
-Don’t deploy your code without testing it. 
-Maybe you have a QA team. Maybe you have integration tests. 
+Don’t deploy your code without testing it.
+Maybe you have a QA team. Maybe you have integration tests.
 You never know when either one might miss something.
 
-Don’t mess too much with your user interface, 
+Don’t mess too much with your user interface,
 or by the time you ship, it will look like a karaoke booth.
 
-Be grateful for open source, but be careful whose code you run. 
+Be grateful for open source, but be careful whose code you run.
 
-Sharing code is noble, 
-but there's more to it than taking bits from your projects folder, 
-slapping a readme on them, 
-and hoping if you upload it to GitHub 
+Sharing code is noble,
+but there's more to it than taking bits from your projects folder,
+slapping a readme on them,
+and hoping if you upload it to GitHub
 somebody else will come along and fix your problems.
 
 But trust me on the flatscreens.

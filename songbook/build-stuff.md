@@ -3,9 +3,10 @@ title: Build Stuff
 original_title: Hot Stuff
 original_artist: "Donna Summer & Giorgio Moroder"
 layout: song
+duration: 5:21
 ---
 ```lyrics
-Gm7                           
+Gm7
 Work is driving you insane, ya know you’re,
 F                         Gm7
 Burning out, headed for a fall,
@@ -35,7 +36,7 @@ Get yourself back into the zone.
 
 [Guitar Solo]
 Gm7 Cm7/G Dm7/G Gm7 | Gm7 Cm7/G Dm7/G Gm
- 
+
 Gm7                                F                        Gm7
 Build, Build, Build, Build Stuff.....Build, Build, Build, yeah.
 Gm7                                 F                       Gm7

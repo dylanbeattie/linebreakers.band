@@ -4,6 +4,7 @@ original_title: Bad Guy
 original_artist: Billie Eilish
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/epu7nyr0jy1ntju324rb9/ReplyGuyDrums.mp4?rlkey=x3ka63a5985xpwxfc3zqwtg7t&dl=1
+duration: 3:16
 ---
 ```lyrics
 Verse 1
