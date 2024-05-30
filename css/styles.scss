@@ -9,6 +9,7 @@ html {
 	a {
 		color: #fff;
 		text-decoration: none;
+		&:hover { text-decoration: underline; color: #39f; }
 	}
 }
 
@@ -135,5 +136,29 @@ body.page {
 			}
 		}
 
+	}
+}
+
+ol.tour-dates {
+	width: 80%;
+	max-width: 480px;
+	margin: 32px auto;
+	list-style: none;
+	li {
+		display: grid;
+		align-items: center;
+		justify-content: stretch;
+		grid-template-columns: 2fr 1fr 4fr;
+		border-bottom: 1px solid #999;
+		&:last-child { border-bottom: none; }
+		em {
+			color: #39f;
+			font-weight: bold;
+			font-size: 120%;
+		}
+		span:first-child {
+			justify-self: start;
+		}
+		span:last-child { justify-self: end; }
 	}
 }
