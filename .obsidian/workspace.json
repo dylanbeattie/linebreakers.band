@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e3838cadc13b168e",
+    "id": "71c709fed7934080",
     "type": "split",
     "children": [
       {
-        "id": "5af48abeddb55406",
+        "id": "8d8f365637fc3ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4972c655698e24",
+            "id": "95ca4430a0ae20de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,7 +27,7 @@
               "state": {
                 "file": "rider.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "966c82aae0631df5",
+    "id": "912ed0464e45b59a",
     "type": "split",
     "children": [
       {
-        "id": "96367e4b81fca15d",
+        "id": "11479362c7cc2b94",
         "type": "tabs",
         "children": [
           {
-            "id": "dee8a4bb74a22bff",
+            "id": "cfac002d9c610dfc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "dc5356203409c783",
+            "id": "33237315375a9ab1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "10980e53000e4ecb",
+            "id": "7d075a3cb1e2836d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "right": {
-    "id": "bfd51f45d0494cc2",
+    "id": "bf5f6d56ccb1b9a1",
     "type": "split",
     "children": [
       {
-        "id": "442ac460761c136f",
+        "id": "859cbdb6e43005df",
         "type": "tabs",
         "children": [
           {
-            "id": "e37972ace390cf6e",
+            "id": "256609b265811532",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "99277910091ffd7e",
+            "id": "211655a51c7e4158",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "f7018a945b7873c2",
+            "id": "ded19b76bfedb01e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "f50c1ce1ebcdd058",
+            "id": "74a74fcf12c5ca78",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,6 +161,8 @@
   },
   "active": "8da98b700e546799",
   "lastOpenFiles": [
+    "images/linebreakers-ndc-london-2023.jpg",
+    "2024-06-07.md",
     "_site/rider.html",
     "_site/rider.md",
     "songbook/enter-stallman.md",

@@ -1,3 +1,4 @@
 {
-  "useTab": false
+  "useTab": false,
+  "useMarkdownLinks": true
 }
