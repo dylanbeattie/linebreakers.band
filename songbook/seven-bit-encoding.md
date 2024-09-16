@@ -35,3 +35,10 @@ And the messages in my DMs,
 I don’t know what they mean…
 
 ```
+
+
+```
+KODIROW]IK
+ËÏÄÉÒÏ×ÝÉË
+кодировщик
+```
