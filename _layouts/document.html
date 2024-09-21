@@ -3,7 +3,6 @@
 
 <head>
 	<title>Linebreakers</title>
-	<link type="text/css" rel="stylesheet" href="/css/styles.css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta property="og:title" content="The Linebreakers" />
 	<meta property="og:type" content="article" />
@@ -15,23 +14,34 @@
 	<!-- Fathom - beautiful, simple website analytics -->
 	<script src="https://cdn.usefathom.com/script.js" data-site="BYFWVNBJ" defer></script>
 	<!-- / Fathom -->
+	<style>
+		html {
+			font-family: Arial, Helvetica, sans-serif;
+			line-height: 1.4em;
+		}
+
+		body {
+			max-width: 960px;
+			margin: 0px auto;
+			padding: 20px;
+		}
+
+		table {
+			border-collapse: collapse;
+		}
+
+		table tr td,
+		table tr th {
+			padding: 4px;
+			border: 1px solid #999;
+		}
+	</style>
 </head>
 
-<body class="page">
-	<header>
-		<a href="/">
-		<h1 id="logotype">The Linebreakers</h1></a>
-		<h2>&nbsp;TECH, BUGS <small>&</small> ROCK<small>‘n’</small>ROLL</h2>
-		{% include nav.html %}
-	</header>
-	<main>
+<body>
+	<article>
 		{{ content }}
-	</main>
-	<footer>
-		<small>
-			website created by and copyright &copy; 2024 Dylan Beattie | <a href="mailto:hello@linebreakers.band">hello@linebreakers.band</a>
-		</small>
-	</footer>
+	</article>
 </body>
 
 </html>

@@ -91,6 +91,29 @@ div#gallery {
 	}
 }
 
+footer {
+	border-top: 2px solid #003366;
+	padding: 8px;
+}
+
+nav {
+	clear: both;
+	padding: 8px;
+	border-top: 2px solid #003366;
+	border-bottom: 2px solid #003366;
+	a {
+		display: inline-block;
+		margin: 0 0 0 10px;
+		padding: 0 0 0 10px;
+		border-left: 2px solid #003366;
+		&:first-child {
+			margin: 0;
+			padding: 0;
+			border-left: 0;
+		}
+	}
+}
+
 body.page {
 	header {
 		h1#logotype {
@@ -110,12 +133,7 @@ body.page {
 			}
 		}
 
-		nav {
-			clear: both;
-			padding: 8px;
-			border-top: 1px solid #003366;
-			border-bottom: 1px solid #003366;
-		}
+
 	}
 
 	main {
@@ -226,6 +244,6 @@ section.person {
 		height: 200px;
 	}
 	img.flag {
-		margin: -12px 0;
+		margin: -11px 0;
 	}
 }

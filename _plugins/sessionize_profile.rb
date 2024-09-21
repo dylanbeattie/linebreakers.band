@@ -32,38 +32,60 @@ module Jekyll
     end
 
     def parse_profile(html)
-      # Parse the HTML with Nokogiri
       doc = Nokogiri::HTML(html)
-      # Extract profile information
       profile_name = doc.css('.c-s-speaker-info--full .c-s-speaker-info__name').text.strip
       profile_tag = doc.css('.c-s-speaker-info--full .c-s-speaker-info__tagline').text.strip
       profile_image = doc.css('.c-s-speaker-info--full .c-s-speaker-info__avatar img').attr('src')
       profile_location = doc.css('.c-s-speaker-info--full .c-s-speaker-info__location').text.strip
       profile_flag = iso_alpha2(profile_location.split(',').last&.strip)
+      profile_bio = doc.css('.c-s-speaker-info__bio').first&.inner_html
+
       topics = doc.css('ul.c-s-tags')&.last&.css('li.c-s-tags__item')&.sort_by(&:text)&.map do |topic|
         topic.text.strip
       end
 
-      # Extract sessions (this might vary depending on the Sessionize page structure)
-      sessions = doc.css('.c-s-session').first(10).map do |session|
+      events = doc.css('.c-s-event__name').map do |event|
+        event.text.strip
+      end
+
+      talks = doc.css('.c-s-session').first(10).map do |session|
         title = session.css('.c-s-session__title a').text.strip
         url = session.css('.c-s-session__title a').attr('href')
         "<li><a href='https://sessionize.com#{url}'>#{title}</a></li>"
       end
 
-      # Format the information as HTML
-      <<-HTML
+      html = <<-HTML
       <section class="person" id="#{@id}">
         <img class="photo" src="#{profile_image}" alt="#{profile_name}" />
         <h3>#{profile_name}</h3>
         <p><em>#{profile_tag}</em></p>
-        <p>#{profile_flag} #{profile_location}</p>
-        <p><strong>Topics:</strong> #{topics&.join(', ')}</p>
-        <h3>Talks:</h3>
-        <ul>
-          #{sessions.join("\n")}
-        </ul>
-		<p>Full Speaker Profile: <a href="#{@url}">#{@url}</a></p>
+      HTML
+      if profile_location
+        html << <<-HTML
+            <p>#{profile_flag} #{profile_location}</p>
+        HTML
+      end
+      html << profile_bio
+      if topics&.any?
+        html << <<-HTML
+        	<p><strong>Topics:</strong> #{topics.join(', ')}</p>
+        HTML
+      end
+      if talks&.any?
+        html << <<-HTML
+			<h3>Talks:</h3>
+			<ul>
+			#{talks.join("\n")}
+			</ul>
+        HTML
+      end
+      if events&.any?
+        html << <<-HTML
+			<p><strong>Events:</strong> #{events.join(', ')}</p>
+        HTML
+      end
+      html << <<-HTML
+        <p>Full Speaker Profile: <a href="#{@url}">#{@url}</a></p>
       </section>
       HTML
     end
