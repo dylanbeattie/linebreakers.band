@@ -10,11 +10,6 @@ twitter: dylanbeattie
 linkedin: https://linkedin.com/in/dylanbeattie
 bluesky: dylanbeattie.net
 
-talks:
-  - name: Bobbins
-    url: https://bobbins/
-  - name: Donkey
-    url: https://donkey/
 ---
 
 Dylan is human.

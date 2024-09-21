@@ -5,6 +5,11 @@ color_scheme: dark
 
 url: https://linebreakers.band
 
+# Silence deprecation warnings from Sass compiler
+# https://github.com/jekyll/jekyll/issues/9686
+sass:
+  quiet_deps: true
+
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 

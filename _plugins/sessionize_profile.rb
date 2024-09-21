@@ -1,21 +1,34 @@
 require 'httparty'
 require 'nokogiri'
+require 'countries'
 
 module Jekyll
   class SessionizeProfile < Liquid::Tag
     def initialize(tag_name, text, tokens)
       super
-      @url = text.strip
+      parts = text.split(' ', 2)
+      @url = parts.first.strip
+      @id = @url.split('/').last
+      @blurb = parts.last.strip
     end
 
-    def render(context)
+    def render(_)
       # Fetch the profile page
       response = HTTParty.get(@url)
       if response.code == 200
         parse_profile(response.body)
       else
-        "<p>Unable to fetch Sessionize profile</p>"
+        '<p>Unable to fetch Sessionize profile</p>'
       end
+    end
+
+    def iso_alpha2(country_name)
+      iso = ISO3166::Country.find_country_by_any_name(country_name)
+      if iso&.alpha2
+        return "<img class='flag' src='/images/flags/flat/32/#{iso.alpha2}.png' alt='Flag of #{country_name}' />"
+      end
+
+      country_name
     end
 
     def parse_profile(html)
@@ -25,29 +38,33 @@ module Jekyll
       profile_name = doc.css('.c-s-speaker-info--full .c-s-speaker-info__name').text.strip
       profile_tag = doc.css('.c-s-speaker-info--full .c-s-speaker-info__tagline').text.strip
       profile_image = doc.css('.c-s-speaker-info--full .c-s-speaker-info__avatar img').attr('src')
-      topics = doc.css("ul.c-s-tags").map do |topic|
+      profile_location = doc.css('.c-s-speaker-info--full .c-s-speaker-info__location').text.strip
+      profile_flag = iso_alpha2(profile_location.split(',').last&.strip)
+      topics = doc.css('ul.c-s-tags')&.last&.css('li.c-s-tags__item')&.sort_by(&:text)&.map do |topic|
         topic.text.strip
       end
 
       # Extract sessions (this might vary depending on the Sessionize page structure)
-      sessions = doc.css('.session-card').map do |session|
-        title = session.css('.session-title').text.strip
-        description = session.css('.session-description').text.strip
-        "<li><strong>#{title}</strong><p>#{description}</p></li>"
+      sessions = doc.css('.c-s-session').first(10).map do |session|
+        title = session.css('.c-s-session__title a').text.strip
+        url = session.css('.c-s-session__title a').attr('href')
+        "<li><a href='https://sessionize.com#{url}'>#{title}</a></li>"
       end
 
       # Format the information as HTML
       <<-HTML
-      <section class="person">
-        <img src="#{profile_image}" alt="#{profile_name}" />
-        <h2>#{profile_name}</h2>
-        <p>#{profile_tag}</p>
-        #{topics.join(", ")}
-        <h3>Sessions:</h3>
+      <section class="person" id="#{@id}">
+        <img class="photo" src="#{profile_image}" alt="#{profile_name}" />
+        <h3>#{profile_name}</h3>
+        <p><em>#{profile_tag}</em></p>
+        <p>#{profile_flag} #{profile_location}</p>
+        <p><strong>Topics:</strong> #{topics&.join(', ')}</p>
+        <h3>Talks:</h3>
         <ul>
           #{sessions.join("\n")}
         </ul>
-      </div>
+		<p>Full Speaker Profile: <a href="#{@url}">#{@url}</a></p>
+      </section>
       HTML
     end
   end
