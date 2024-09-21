@@ -7,3 +7,7 @@ url: https://linebreakers.band
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+collections:
+    people:
+        output: true
