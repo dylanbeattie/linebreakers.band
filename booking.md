@@ -3,8 +3,11 @@ layout: article
 ---
 ## How to book The Linebreakers
 
-**TL;DR: Book us all to speak at your conference. Give us a proper stage, PA system, and an
-audience who like loud rock music full of nerdy jokes. We'll do the rest.**
+**TL;DR: Book us all to speak at your conference. Give us a proper stage,
+PA system, and an audience who like loud rock music full of nerdy jokes,
+and we'll do the rest.**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NXagudbeHcI?si=quigYYy8YzIuXTW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 So you're running some sort of tech event. A conference,
 a geek festival, your company's having a tech day, that kind of
@@ -62,24 +65,24 @@ a keynote or two, *and* a party show.
 At a bare minimum, be prepared to cover travel and accommodation
 costs for everybody you're bringing in.
 
-Many of us are keynote speakers who usually charge several thousand
-euros (or pounds, or dollars) to speak at an event. How much we
+Some of us are keynote speakers who usually charge several thousand
+euros/pounds/dollars to speak at an event. How much we
 charge to speak at <em>your</em> event depends on who you are,
 what kind of event it is, whether we get to visit somewhere fun,
 who else is going to be there, and if anybody else is making serious
 money out of it.
 
 If you're a community event or a non-profit, we'll probably
-do it for airfare & hotel. If you're charging €1800 a ticket and
+do it for airfare and hotel. If you're charging €1800 a ticket and
 sponsored by Microsoft, Amazon, and Google, then we expect to get paid.
 
 ## Who Do We Book?
 
-First, you need <a href="/people#dylanbeattie">Dylan Beattie</a>. No Dylan, no show.
-If you just book Dylan, you'll get two hours of heavy rock music,
-with live vocals and guitar and everything else coming from playbacks,
-and it'll be a great show because he's a professional, dammit, but deep
-inside he'll be sad 'cos his friends aren't there.
+First, you need <a href="/people#dylanbeattie">Dylan Beattie</a>.
+No Dylan, no show. If you just book Dylan, you'll get two hours of rock
+music, with live vocals and guitar and everything else coming from
+playbacks, and it'll be a great show because he's a professional, dammit,
+but deep inside he'll be sad 'cos his friends aren't there.
 
 Then there's <a href="/people#heather-downing">Heather Downing</a>,
 <a href="/people#mark-rendle">Mark Rendle</a>, <a href="/people#vagif-abilov">Vagif Abilov</a>,

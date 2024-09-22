@@ -20,18 +20,15 @@
 <body class="page">
 	<header>
 		<a href="/">
-		<h1 id="logotype">The Linebreakers</h1></a>
+			<h1 id="logotype">The Linebreakers</h1>
+		</a>
 		<h2>&nbsp;TECH, BUGS <small>&</small> ROCK<small>‘n’</small>ROLL</h2>
 		{% include nav.html %}
 	</header>
 	<main>
 		{{ content }}
 	</main>
-	<footer>
-		<small>
-			website created by and copyright &copy; 2024 Dylan Beattie | <a href="mailto:hello@linebreakers.band">hello@linebreakers.band</a>
-		</small>
-	</footer>
+	{% include footer.html %}
 </body>
 
 </html>
