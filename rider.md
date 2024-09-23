@@ -8,7 +8,7 @@ layout: document
 
 **Contact**: Dylan Beattie dylan@dylanbeattie.net +44 7980 575597
 
-### The Band:
+## The Band
 
 * **Dylan Beattie:** Vocals, electric guitar, harmonica, laptop video + playbacks
 * **Heather Downing:** Vocals
@@ -16,6 +16,9 @@ layout: document
 * **Hannes Lowette:** Electric guitar, vocals
 * **Mark Rendle:** Bass guitar
 * **Eli Holderness:** French horn, backing vocals
+
+### Special Guests
+
 * **Kevlin Henney:** Electric guitar
 * **Alex Dunn:** Electric guitar
 * **Max Arshinov:** Electric guitar
