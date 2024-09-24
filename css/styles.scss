@@ -245,7 +245,7 @@ article.tour-dates {
 			display: grid;
 			align-items: center;
 			justify-content: stretch;
-			grid-template-columns: 3fr 1fr 4fr 4fr;
+			grid-template-columns: 7em 48px 1fr;
 			border-bottom: 1px solid #003366;
 
 			em {
@@ -264,8 +264,8 @@ article.tour-dates {
 			}
 
 			:last-child {
-				justify-self: end;
-				text-align: right;
+				display: flex;
+				justify-content: space-between;
 			}
 		}
 	}

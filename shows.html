@@ -12,8 +12,10 @@ layout: page
 		<li>
 			<span class="show-date">{{ show.isodate | date: "%a %-d %b" }}</span>
 			<img src="/images/flags/flat/32/{{ show.country }}.png" alt="{{ show.country }}" />
+			<span>
 			{{ show.city }}
 			<a href="{{ show.url }}">{{ show.venue }}</a>
+			</span>
 		</li>
 		{% endfor %}
 	</ol>

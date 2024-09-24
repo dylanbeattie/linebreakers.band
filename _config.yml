@@ -16,3 +16,8 @@ sass:
 collections:
     people:
         output: true
+
+include:
+# - images/flags/flat/32/_*.png
+ - images/flags/flat/32/_youtube.png
+
