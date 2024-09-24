@@ -50,9 +50,12 @@ layout: page
 					<span>{{ show.venue }}</span>
 				</span>
 		</li>
+		{% if show.city != "Online" %}
 		{% assign count = count | plus: 1 %}
+		{% endif %}
 		{% endfor %}
 	</ol>
 	{% endfor %}
-	<p>That's {{ count }} shows. We'll do something fun for show #100.</p>
+	<p>That's {{ count }} real shows. Online shows don't count because they suck.</p>
+	<p>We'll do something fun for show #100.</p>
 	</article>

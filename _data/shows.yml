@@ -114,10 +114,6 @@
   venue: Azure Lowlands
   city: Utrecht
   country: "NL"
-- isodate: 2022-06-30 23:59:59
-  venue: Azure Lowlands
-  city: Utrecht
-  country: "NL"
 - isodate: 2022-05-19 23:59:59
   venue: CodeCamp
   city: Bucharest
@@ -365,10 +361,10 @@
   venue: PubConf
   city: Oslo
   country: "NO"
-- isodate: 2016-05-16 23:59:59
-  venue: Farewell Pieter
-  country: "BE"
-  city: Brussels
+# - isodate: 2016-05-16 23:59:59
+#   venue: Farewell Pieter
+#   country: "BE"
+#   city: Brussels
 - isodate: 2016-01-14 23:59:59
   venue: NDC London
   city: London
