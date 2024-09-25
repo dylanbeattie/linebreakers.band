@@ -266,6 +266,9 @@ article.tour-dates {
 			:last-child {
 				display: flex;
 				justify-content: space-between;
+				:last-child {
+					text-align: right;
+				}
 			}
 		}
 	}

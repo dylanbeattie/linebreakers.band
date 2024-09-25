@@ -142,14 +142,14 @@
   venue: GOTO Copenhagen
   city: Copenhagen
   country: "DK"
-- isodate: 2021-06-02 23:59:59
-  venue: "Re:factor"
-  city: Online
-  country: "_youtube"
-- isodate: 2021-02-28 23:59:59
-  venue: LambdaDays
-  city: Online
-  country: "_youtube"
+# - isodate: 2021-06-02 23:59:59
+#   venue: "Re:factor"
+#   city: Online
+#   country: "_youtube"
+# - isodate: 2021-02-28 23:59:59
+#   venue: LambdaDays
+#   city: Online
+#   country: "_youtube"
 - isodate: 2020-12-27 23:59:59
   venue: Dylan's Holidays on the Holodeck
   city: Online

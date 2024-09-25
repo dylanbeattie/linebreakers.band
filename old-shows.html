@@ -32,18 +32,32 @@ layout: page
 	</p>
 	{% endif %}
 	<ol class="tour-dates">
+		{% if year.name == "2020" %}
+		<li>
+			<span class="show-date">Wed 459 Mar</span>
+			<img src="/images/flags/flat/32/_youtube.png" alt="_youtube" />
+			<span>Online <span>Re:factor</span></span>
+		</li>
+		<li>
+			<span class="show-date">Sun 365 Mar</span>
+			<img src="/images/flags/flat/32/_youtube.png" alt="_youtube" />
+			<span>Online <span>LambdaDays</span>
+			</span>
+		</li>
+		{% endif %}
 		{% for show in year.items %}
 		<li>
-			{% assign mar2020 = "2020-03-01" | date: "%s" %}
-			{% assign dec2020 = "2020-12-31" | date: "%s" %}
-			{% assign showdate = show.isodate | date: "%s" %}
-			{% if showdate > mar2020 and showdate < dec2020 %} {% assign day=show.isodate | date: "%j" | minus: 60 %}
+			{% assign mar2020 = "2020-03-01" | date: "%s" -%}
+			{% assign dec2020 = "2020-12-31" | date: "%s" -%}
+			{% assign showdate = show.isodate | date: "%s" -%}
+			{% if showdate > mar2020 and showdate < dec2020 -%}
+				{% assign day=show.isodate | date: "%j" | minus: 60 -%}
 				<span class="show-date">
 				{{ show.isodate | date: "%a" }} {{ day }} Mar
 				</span>
-				{% else %}
+				{% else -%}
 				<span class="show-date">{{ show.isodate | date: "%a %-d %b" }}</span>
-				{% endif %}
+				{% endif -%}
 				<img src="/images/flags/flat/32/{{ show.country }}.png" alt="{{ show.country }}" />
 				<span>
 					{{ show.city }}
