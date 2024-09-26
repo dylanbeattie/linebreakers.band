@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "songbook/enter-stallman.md",
+                "file": "songbook/drafts/Du Hast.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "songbook/enter-stallman.md",
+                "file": "songbook/drafts/Du Hast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "songbook/enter-stallman.md",
+                "file": "songbook/drafts/Du Hast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "songbook/enter-stallman.md"
+                "file": "songbook/drafts/Du Hast.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "8da98b700e546799",
   "lastOpenFiles": [
+    "songbook/enter-stallman.md",
+    "songbook/drafts/Du Hast.md",
+    "songbook/drafts",
     "songbook/seven-bit-encoding.md",
     "songbook/run-in-the-cloud-with-me.md",
     "songbook/Untitled.md",
@@ -172,7 +175,6 @@
     "images/linebreakers-ndc-london-2023.jpg",
     "2024-06-07.md",
     "_site/rider.html",
-    "_site/rider.md",
-    "songbook/enter-stallman.md"
+    "_site/rider.md"
   ]
 }
