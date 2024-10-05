@@ -21,8 +21,8 @@ Every single one’s got a story to tell,
 They’re gonna play their part,
 From the start of header to the console bell,
 And if your alphabet has letters that they don’t use in the USA, 
-Better pick the proper code page or you’re gonna have a bad bad day,
-And the message coming down the wire says Unicode
+Better check the code page or you’ll find you’re in disarray
+And the message coming down the wire’s in KOI-8
 
 Out on the internet,
 Every single e-mail and website
