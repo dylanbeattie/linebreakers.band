@@ -11,7 +11,7 @@ I’m gonna write ‘em off,
 A seven bit encoding’s all we can afford,
 That ought to be enough,
 When we’re running at three hundred baud,
-And the teleprinter clatters in the silence of the machine room,
+And the teleprinter clatters in the silence of the server room,
 Back and forth across the page like a Jacquard loom,
 And the message coming down the line
 Ends control zero,
