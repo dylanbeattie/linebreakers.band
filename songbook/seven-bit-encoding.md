@@ -7,7 +7,7 @@ dropbox:
 duration: 3:52
 ---
 ```lyrics
-I’m gonna write ’em off,
+I’m gonna write ‘em off,
 A seven bit encoding’s all we can afford,
 That ought to be enough,
 When we’re running at three hundred baud,
