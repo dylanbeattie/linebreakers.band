@@ -47,7 +47,7 @@ We're all experienced speakers who can deliver sessions on a
 range of topics related to software development, architecture,
 the web, and more.
 
-Check out <a href="/people/">who we are</a> to see the kind of sessions
+Check out <a href="/people">who we are</a> to see the kind of sessions
 we offer and the sort of events we've all spoken at.
 
 Just so we're clear: if it gets to the point where we've agreed who's
