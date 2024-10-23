@@ -5,6 +5,7 @@ original_artist: Bon Jovi
 layout: song
 dropbox: https://www.dropbox.com/s/18k5imzm3509lme/You%20Give%20REST%20a%20Bad%20Name%20-%20Trio%20Mix.mp4?dl=1
 duration: 3:41
+vocal: Dylan
 ---
 ```lyrics
 Your API is a hall of shame,

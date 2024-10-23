@@ -3,8 +3,9 @@ title: Seven Bit Encoding
 original_title: Seven Nation Army
 original_artist: White Stripes
 layout: song
-dropbox: 
+dropbox:
 duration: 3:52
+vocal: Dylan
 ---
 ```lyrics
 I’m gonna write ‘em off,
@@ -20,7 +21,7 @@ Look at your ASCII chart,
 Every single one’s got a story to tell,
 They’re gonna play their part,
 From the start of header to the console bell,
-And if your alphabet has letters that they don’t use in the USA, 
+And if your alphabet has letters that they don’t use in the USA,
 Better check the code page or you’ll find you’re in disarray
 And the message coming down the wire’s in KOI-8
 

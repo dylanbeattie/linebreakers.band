@@ -5,6 +5,7 @@ original_artist: Billy Joel
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/k3dlvwtb6a3eyjjmptcge/Bug-in-the-JavaScript-Solo-Mix.mp4?rlkey=q6flw2gugv50di3eikaap3uno&dl=1
 duration: 5:39
+vocal: Dylan
 ---
 ```lyrics
 It's nine-o-clock on a Saturday,

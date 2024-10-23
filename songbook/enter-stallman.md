@@ -5,6 +5,7 @@ original_artist: Metallica
 layout: song
 dropbox: https://www.dropbox.com/s/2r3i5mrs1vytq7o/Enter%20Sandman%20%28Exit%20Stallman%29%20-%20Solo%20Mix.mp4?dl=1
 duration: 5:27
+vocal: Dylan
 ---
 ```lyrics
 Make it work, make it run,
@@ -32,13 +33,13 @@ Something just isn't right,
 
 Play your hand, take a stand,
 Free software, doesn't have to be unfair
-   
-When my laptop goes to sleep, 
+
+When my laptop goes to sleep,
 I’ll trust the world my source to keep
-If I've corrupted all my files, 
+If I've corrupted all my files,
 I’ll just download and recompile,
 
-You pay for your iPhone, 
+You pay for your iPhone,
 Pay for your Mac,
 What about your server stack?
 All the code in your machine,

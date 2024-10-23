@@ -4,6 +4,7 @@ original_title: "Sunscreen"
 original_artist: Baz Luhrmann
 layout: song
 duration: 5:48
+vocal: Dylan
 ---
 ```lyrics
 Ladies and gentleman of the class of 2017

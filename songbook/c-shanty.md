@@ -4,6 +4,7 @@ original_title: "Wellerman"
 original_artist: Traditional
 layout: song
 duration: 4:00
+vocal: everyone
 ---
 ```lyrics
 There once was a dev who wrote in C

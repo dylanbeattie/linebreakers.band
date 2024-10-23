@@ -5,6 +5,7 @@ original_artist: Okean Elzy
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/9oiry41co5ywgthd78e89/Strilyai-Trio-Mix.mp4?rlkey=8bwt1846pny1r1rvm8bctlzif&dl=1
 duration: 4:40
+vocal: Dylan
 ---
 ```lyrics
 Стріляй (Океан Ельзи)

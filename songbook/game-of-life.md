@@ -5,6 +5,7 @@ original_artist: Dire Straits
 layout: song
 dropbox: https://www.dropbox.com/s/1q4pptuepk5eouh/Game%20of%20Life%20-%20Solo%20Mix.mp4?dl=1
 duration: 3:41
+vocal: Dylan
 ---
 ```lyrics
 Here comes Johnny, Mr Horton Conway,

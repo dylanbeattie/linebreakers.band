@@ -5,6 +5,7 @@ original_artist: Dylan Beattie
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/vysjhr3ki0vtjqyva8mgq/Fizzbuzz-in-Rockstar-2024-Ninja-Strings-CPH-Dev-Fest-version.mp4?rlkey=ntefw85shpb4fnfbkw2ljvyjb&dl=1
 duration: 3:25
+vocal: Dylan
 ---
 ```lyrics
 
@@ -25,7 +26,7 @@ While your heart is as high as your soul
 Put your heart without your soul into your heart, baby
 Give back your heart, yeah
 
-(Riff: G A C D D G A G C A)  
+(Riff: G A C D D G A G C A)
 
 My dreams hold diamond nightmares
 Salvation holds the sea
@@ -47,10 +48,10 @@ Desire  is a.  lovestruck ladykiller
 My world is nothing.      Fire is ice. The sky is cryin'
       C             G    D Am
 Until my world is desire
-         C     G.    C D D   C D D 
+         C     G.    C D D   C D D
 Build my world up
    F               G         Am
-If midnight taking my world, fire is nothing and 
+If midnight taking my world, fire is nothing and
    F               G         Am
 midnight taking my world, and the sky is nothing
    F               G         Am

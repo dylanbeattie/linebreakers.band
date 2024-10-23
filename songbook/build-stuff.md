@@ -4,6 +4,7 @@ original_title: Hot Stuff
 original_artist: "Donna Summer & Giorgio Moroder"
 layout: song
 duration: 5:21
+vocal: Heather
 ---
 ```lyrics
 Gm7
