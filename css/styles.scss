@@ -83,15 +83,23 @@ div#gallery {
 	justify-content: center;
 	flex-wrap: wrap;
 
-	div {
+	div, a {
 		width: 220px;
 		margin: 10px;
 		font-weight: 200;
+		text-align: center;
+		color: #fff !important;
 
 		img.musician {
 			width: 220px;
 			height: 220px;
-			border: 1px solid #fff;
+			border: 2px solid #000;
+		}
+	}
+	a:hover {
+		text-decoration: underline;
+		img.musician {
+			border: 2px solid #fff;
 		}
 	}
 }

@@ -333,6 +333,10 @@
   venue: PubConf
   city: Oslo
   country: "NO"
+- isodate: 2017-05-19 23:59:59
+  venue: DotNext
+  city: St Petersburg
+  country: "RU"
 - isodate: 2017-01-20 23:59:59
   venue: PubConf
   city: London

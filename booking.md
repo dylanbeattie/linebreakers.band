@@ -85,7 +85,7 @@ playbacks, and it'll be a great show because he's a professional, dammit,
 but deep inside he'll be sad 'cos his friends aren't there.
 
 Then there's <a href="/people#heather-downing">Heather Downing</a>,
-<a href="/people#mark-rendle">Mark Rendle</a>, <a href="/people#vagif-abilov">Vagif Abilov</a>,
+<a href="/people#mark-rendle">Rendle</a>, <a href="/people#vagif-abilov">Vagif Abilov</a>,
 <a href="/people#hannes-lowette">Hannes Lowette</a>,
 and <a href="/people#eli-holderness">Eli Holderness.</a> They each add a
 unique musical facet to the show, so if you want to add disco, pop-punk,
