@@ -1,10 +1,13 @@
 ---
+code: bst
 title: Build Stuff
 original_title: Hot Stuff
 original_artist: "Donna Summer & Giorgio Moroder"
 layout: song
 duration: 5:21
 vocal: Heather
+class: disco
+
 ---
 ```lyrics
 Gm7

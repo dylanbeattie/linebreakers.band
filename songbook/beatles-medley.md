@@ -1,4 +1,5 @@
 ---
+code: bmd
 title: Beatles Medley
 original_title: "Eleanor Rigby, Yeserday, Yellow Submarine, Drive My Car, Twist & Shout"
 original_artist: The Beatles
@@ -6,6 +7,7 @@ layout: song
 dropbox: https://www.dropbox.com/s/pu9wamr39it6q3j/Beatles%20Medley%20-%20Solo%20Mix.mp4?dl=1
 duration: 7:31
 vocal: Dylan
+class: ballad
 ---
 ```lyrics
 C                        Em

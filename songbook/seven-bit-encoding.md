@@ -1,4 +1,5 @@
 ---
+code: sbe
 title: Seven Bit Encoding
 original_title: Seven Nation Army
 original_artist: White Stripes
@@ -6,6 +7,8 @@ layout: song
 dropbox:
 duration: 3:52
 vocal: Dylan
+class: rock
+
 ---
 ```lyrics
 I’m gonna write ‘em off,

@@ -1,4 +1,5 @@
 ---
+code: liobc
 title: Lost it on the Blockchain
 original_title: Heard it Through the Grapevine
 original_artist: Creedence Clearwater Revival
@@ -6,6 +7,8 @@ layout: song
 dropbox: https://www.dropbox.com/scl/fi/h9g3u1vt6w41mjwx286pi/Lost-It-On-The-Blockchain-Trio-Mix.mp4?rlkey=whjjdi65mewco3h7gkozvimzv&dl=1
 duration: 4:29
 vocal: Dylan
+class: ballad
+
 ---
 Key: A (chords A, E, D7, F#m)
 

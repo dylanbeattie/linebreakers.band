@@ -1,4 +1,5 @@
 ---
+code: wgbaf
 title: "We're Gonna Build a Framework"
 original_title: "We Didn't Start the Fire"
 original_artist: Billy Joel
@@ -6,6 +7,8 @@ layout: song
 dropbox: https://www.dropbox.com/scl/fi/y42csemi0u7r1stjisiob/We-re-Gonna-Build-a-Framework-Trio-Mix.mp4?rlkey=afhmnvzyaw3hdlwc4irx9oywd&dl=1
 duration: 4:10
 vocal: Dylan
+class: rock
+
 ---
 ```lyrics
 Handlebars, Hibernate, Solar, Activate,

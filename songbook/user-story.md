@@ -1,4 +1,5 @@
 ---
+code: us
 title: User Story
 original_title: Love Story
 original_artist: Taylor Swift
@@ -6,6 +7,8 @@ layout: song
 dropbox: https://www.dropbox.com/scl/fi/h82p84b5wurq3usc9ay8j/User-Story.mp4?rlkey=lise8qz0vewm7ejq0c749awxz&dl=1
 duration: 3:59
 vocal: Heather
+class: ballad
+
 ---
 Chords are D / A / Bm / G, but there’s a nice arpeggio pattern based around Dsus2/Asus4/Bmadd11/G6/9
 

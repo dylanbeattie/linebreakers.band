@@ -1,4 +1,5 @@
 ---
+code: flat
 title: Flatscreens
 original_title: "Sunscreen"
 original_artist: Baz Luhrmann

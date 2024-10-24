@@ -1,4 +1,5 @@
 ---
+code: rcm
 title: Run in the Cloud With Me
 original_title: Lay All Your Love On Me
 original_artist: ABBA
@@ -6,6 +7,8 @@ layout: song
 dropbox: https://www.dropbox.com/scl/fi/gzra6adh4o18hcu6theew/Run-In-The-Cloud-With-Me-Trio-Mix.mp4?rlkey=jvw156heg19y48qwnu30x20vq&dl=1
 duration: 4:48
 vocal: Heather
+class: disco
+
 ---
 ```lyrics
 

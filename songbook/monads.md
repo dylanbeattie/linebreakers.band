@@ -1,4 +1,5 @@
 ---
+code: mnd
 title: Monads
 original_title: Alice
 original_artist: Smokie
@@ -6,6 +7,8 @@ layout: song
 dropbox: https://www.dropbox.com/scl/fi/3mesdys9ppu1kae71no0a/Monads-Trio-Mix.mp4?rlkey=j7ciwnb2swe4qw8xxtprjxtxj&dl=1
 duration: 3:06
 vocal: Dylan
+class: ballad
+
 
 ---
 ```lyrics

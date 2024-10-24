@@ -1,4 +1,5 @@
 ---
+code: ts
 title: Tech Sales
 original_title: Duck Tales
 original_artist: "Mark Mueller / © Disney"

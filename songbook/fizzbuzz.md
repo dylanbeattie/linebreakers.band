@@ -1,4 +1,5 @@
 ---
+code: fb
 title: Fizzbuzz
 original_title: Fizzbuzz
 original_artist: Dylan Beattie
@@ -6,6 +7,8 @@ layout: song
 dropbox: https://www.dropbox.com/scl/fi/vysjhr3ki0vtjqyva8mgq/Fizzbuzz-in-Rockstar-2024-Ninja-Strings-CPH-Dev-Fest-version.mp4?rlkey=ntefw85shpb4fnfbkw2ljvyjb&dl=1
 duration: 3:25
 vocal: Dylan
+class: rock
+
 ---
 ```lyrics
 
