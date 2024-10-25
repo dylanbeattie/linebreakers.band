@@ -14,7 +14,7 @@ layout: page
 		border-radius: 8px;
 		margin: 2px;
 		padding: 0;
-		height: 600px;
+		height: 400px;
 		overflow-y: auto;
 	}
 
@@ -38,6 +38,15 @@ layout: page
 		margin: 2px;
 	}
 
+	input[type=text],
+	input[type=number] {
+		width: 3em;
+		padding: 4px;
+		font-size: 120%;
+		border-radius: 2px;
+		border: 1px solid #000;
+	}
+
 	/* ul.draggable li.rock {
 		background-color: #660000;
 	}
@@ -59,8 +68,23 @@ layout: page
 		border: 1px dashed #2c84fa;
 		background-color: #000;
 	}
+
+	div#friendly-setlist {
+		display: grid;
+		grid-template-columns: 4em 1fr;
+	}
+
+	div#friend-setlist span {
+		display: block;
+		margin-bottom: 8px;
+	}
 </style>
 <h2>Linebreakers Set List Builder • <a href="setlist-builder">reset</a></h2>
+<label for="stage-time-input">Stage time (hh:mm)</label>
+<input type="time" name="stage-time" step="300" id="stage-time-input" value="21:00" />
+<label for="song-gap-input">Gap between songs (seconds)</label>
+<input type="number" name="song-gap" id="song-gap-input" value="60" />
+
 <div class="builder">
 	{% assign all_pages = site.pages %}
 	{% assign songs = all_pages | where: "layout", "song" %}
@@ -84,9 +108,9 @@ layout: page
 	</ul>
 </div>
 <h4 id="setlist-title">Set List (0:00)</h4>
-<ol id="friendly-setlist">
+<div id="friendly-setlist">
 
-</ol>
+</div>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"
 	integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.14.0/jquery-ui.min.js"
@@ -101,13 +125,29 @@ layout: page
 		return `${hh}:${mm}:${ss}`;
 	}
 
-	function updateTitle(event, ui) {
-		let items = Array.from(document.querySelectorAll("#setlist li"));
-		let totalDuration = items.map(li => parseInt(li.dataset.duration)).reduce((a, c) => a + c, 0);
-		document.getElementById("setlist-title").innerHTML = `Set List (${hhmmss(totalDuration)})`;
+	function hhmm(duration) {
+		var hh = Math.floor(duration / 3600);
+		var mm = ("" + (100 + Math.floor((duration % 3600) / 60))).substring(1, 3);
+		//var ss = ("" + (100 + (duration % 60))).substring(1, 3);
+		return `${hh}:${mm}`;
+	}
 
-		let listings = items.map(li => li.innerHTML).reduce((a, c) => a + "<li>" + c + "</li>", "");
-		document.getElementById("friendly-setlist").innerHTML = listings;
+	function updateTitle(event, ui) {
+		var gapLength = parseInt(document.getElementById("song-gap-input").value);
+		let items = Array.from(document.querySelectorAll("#setlist li"));
+		let totalDuration = items.map(li => parseInt(li.dataset.duration)).reduce((a, c) => a + c + gapLength, 0);
+		document.getElementById("setlist-title").innerHTML = `Set List (${hhmmss(totalDuration)})`;
+		var stageTimeTokens = document.getElementById("stage-time-input").value.split(':');
+		var stageTimeHour = parseInt(stageTimeTokens[0]);
+		var stageTimeMinute = parseInt(stageTimeTokens[1]);
+		var songTime = 3600 * stageTimeHour + 60 * stageTimeMinute;
+		var setListHtml = new Array();
+		for (var item of items) {
+			setListHtml.push("<span>" + hhmm(Math.ceil(songTime / 60) * 60) + "</span><span>" + item.innerHTML + "</span>");
+			songTime += parseInt(item.dataset.duration) + gapLength;
+		}
+		setListHtml.push("<span>" + hhmm(Math.ceil(songTime / 60) * 60) + "</span><span>FINISH</span>");
+		document.getElementById("friendly-setlist").innerHTML = setListHtml.join("");;
 
 		let names = items.map(li => li.id).join(",");
 		window.location.hash = "list=" + names;
@@ -122,6 +162,8 @@ layout: page
 		}
 	}
 	updateTitle();
+	document.getElementById("song-gap-input").addEventListener("change", updateTitle);
+	document.getElementById("stage-time-input").addEventListener("change", updateTitle);
 
 	$(function () {
 		$("#catalog, #setlist").sortable({
