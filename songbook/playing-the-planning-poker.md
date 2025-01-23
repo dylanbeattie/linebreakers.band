@@ -7,7 +7,9 @@ layout: song
 dropbox: 
 duration: 4:05
 ---
+
 ```lyrics
+
 (Intro: Am)
 
 Am
@@ -61,4 +63,4 @@ CHORUS
 
 (Guitar solo - 8 bars)
 
-
+```
