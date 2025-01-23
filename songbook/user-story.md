@@ -133,6 +133,6 @@ Take a long weekend, unwind, decompress
 A                  B                   E
 It's a user story, maybe just say yes,
 
-(E)  B   C#m    A     E
+(E)  B   C#m    A  B   E
 
 ```
