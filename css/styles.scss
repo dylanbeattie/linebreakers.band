@@ -3,20 +3,34 @@
 html {
 	background-color: #000;
 	color: #fff;
-	font-family: "Poppins", sans-serif;
-	text-align: center;
+	font-family: "Open Sans", Arial, helvetica, sans-serif;
+	// text-align: center;
+
+	body {
+		max-width: 960px;
+		margin: 20px auto;
+		padding: 10px;
+	}
 
 	a {
-		color: #fff;
+		color: #39f;
 		text-decoration: none;
-		&:hover { text-decoration: underline; color: #39f; }
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	footer {
+		text-align: center;
 	}
 }
 
 $layout-breakpoint-small: 480px;
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 h1#logotype {
 	font-size: 0;
@@ -24,29 +38,28 @@ h1#logotype {
 	width: 600px;
 	height: 120px;
 	margin: 40px auto 0px auto;
+	background-image: url(../images/linebreakers-logotype-kung-font.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	transform: rotateZ(-3deg);
 
 	@media (max-width: $layout-breakpoint-small) {
 		width: 90%;
 		height: 80px;
 		margin: 10px auto 0 auto;
 	}
-
-	background-image: url(../images/linebreakers-logotype-kung-font.png);
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	transform: rotateZ(-3deg);
 }
 
 h2 {
 	margin: 20px auto;
 	text-align: center;
 	font-weight: 100;
-	letter-spacing: 1rem;
+	// letter-spacing: 1rem;
 
 	small {
-		font-size: 50%;
-		letter-spacing: 1rem;
+		font-size: 80%;
+		// letter-spacing: 1rem;
 	}
 }
 
@@ -70,25 +83,49 @@ div#gallery {
 	justify-content: center;
 	flex-wrap: wrap;
 
-	div {
+	div, a {
 		width: 220px;
 		margin: 10px;
 		font-weight: 200;
+		text-align: center;
+		color: #fff !important;
 
 		img.musician {
 			width: 220px;
 			height: 220px;
-			border: 1px solid #fff;
+			border: 2px solid #000;
+		}
+	}
+	a:hover {
+		text-decoration: underline;
+		img.musician {
+			border: 2px solid #fff;
 		}
 	}
 }
 
-div {
-	font-family: "Lato", sans-serif;
+footer {
+	border-top: 2px solid #003366;
+	padding: 8px;
 }
 
-span {
-	font-family: "PT Sans Narrow", sans-serif;
+nav {
+	clear: both;
+	padding: 5px;
+	border-top: 2px solid #003366;
+	border-bottom: 2px solid #003366;
+	display: flex;
+	justify-content: center;
+
+	a {
+		display: block;
+		padding: 0 5px 0 5px;
+		border-left: 2px solid #003366;
+
+		&:first-child {
+			border-left: 0;
+		}
+	}
 }
 
 body.page {
@@ -104,62 +141,163 @@ body.page {
 			float: right;
 			font-size: 140%;
 			letter-spacing: 0;
-			* { letter-spacing: 0; }
-		}
-		nav {
-			clear: both;
-			padding: 8px;
-			border-top: 1px solid #003366;
-			border-bottom: 1px solid #003366;
-		}
-	}
-	main {
-		p {
-			clear: both;
-		}
-		margin: 16px auto;
-		max-width: 960px;
-		blockquote {
-			font-style: italic;
-			// add smart quotes before and after
-			&::before, &::after { font-weight: bold; font-family: 'Times New Roman', Times, serif; }
-			&::after { content: "”";  }
-			&::before { content: "“"; }
-		}
-		dl {
-			max-width: 60%;
-			dt { margin: 0; padding: 0; font-weight: bold; float: left; clear: left; }
-			dd { margin: 0; padding: 0;
-				float: right;
-				img {
-					width: 24px; height: 24px; display: inline-block; position: relative; top: 6px;
-				}
+
+			* {
+				letter-spacing: 0;
 			}
 		}
 
+
+	}
+
+	main {
+
+		margin: 8px auto;
+		max-width: 960px;
+
+		article {
+			text-align: left;
+
+			h2 {
+				text-align: left;
+			}
+
+			a {
+				text-decoration: underlin;
+			}
+		}
+
+		blockquote {
+			font-style: italic;
+
+			// add smart quotes before and after
+			&::before,
+			&::after {
+				font-weight: bold;
+				font-family: 'Times New Roman', Times, serif;
+			}
+
+			&::after {
+				content: "”";
+			}
+
+			&::before {
+				content: "“";
+			}
+		}
+
+		dl {
+			max-width: 60%;
+
+			dt {
+				margin: 0;
+				padding: 0;
+				font-weight: bold;
+				float: left;
+				clear: left;
+			}
+
+			dd {
+				margin: 0;
+				padding: 0;
+				float: right;
+
+				img {
+					width: 24px;
+					height: 24px;
+					display: inline-block;
+					position: relative;
+					top: 6px;
+				}
+			}
+		}
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+		margin: 8px auto;
+		display:block;
+	}
+
+}
+
+article.tour-dates {
+
+	h1,
+	h2,
+	h3,
+	h4 {
+		text-align: center !important;
+	}
+
+	p {
+		text-align: center;
+		padding: 10px;
+		max-width: 480px;
+		margin: 0 auto;
+	}
+
+	ol {
+		width: 100%;
+		max-width: 480px;
+		list-style: none;
+		margin: 0 auto;
+		padding: 0;
+		list-style-position: inside;
+		border-top: 1px solid #003366;
+
+		li {
+			margin: 0;
+			padding: 5px 0;
+			display: grid;
+			align-items: center;
+			justify-content: stretch;
+			grid-template-columns: 7em 48px 1fr;
+			border-bottom: 1px solid #003366;
+
+			em {
+				color: #39f;
+				font-weight: bold;
+				font-size: 120%;
+			}
+
+			img {
+				margin: -10px 10px;
+			}
+
+			:first-child {
+				justify-self: start;
+				text-align: left;
+			}
+
+			:last-child {
+				display: flex;
+				justify-content: space-between;
+				:last-child {
+					text-align: right;
+				}
+			}
+		}
 	}
 }
 
-ol.tour-dates {
-	width: 80%;
-	max-width: 480px;
-	margin: 32px auto;
-	list-style: none;
-	li {
-		display: grid;
-		align-items: center;
-		justify-content: stretch;
-		grid-template-columns: 2fr 1fr 4fr;
-		border-bottom: 1px solid #999;
-		&:last-child { border-bottom: none; }
-		em {
-			color: #39f;
-			font-weight: bold;
-			font-size: 120%;
-		}
-		span:first-child {
-			justify-self: start;
-		}
-		span:last-child { justify-self: end; }
+section.person {
+	clear: both;
+	border-bottom: 1px solid #fff;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	text-align: left;
+
+	img.photo {
+		border-radius: 100px;
+		float: right;
+		margin: 10px;
+		width: 200px;
+		height: 200px;
+	}
+
+	img.flag {
+		margin: -11px 0;
 	}
 }

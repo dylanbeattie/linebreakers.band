@@ -1,57 +1,24 @@
 ---
 layout: page
-shows:
-#   - 20240613:
-#     date: 13 June 2024
-#     venue: NDC Oslo
-#     city: Oslo
-#     country: "NO"
-#     url: https://ndcoslo.com/
-#   - 20240614:
-#     date: 14 June 2024
-#     venue: Brewgata, Oslo <em>FREE SHOW!</em>
-#     city: Oslo
-#     country: "NO"
-#     url: https://www.facebook.com/events/1133621604513111
-  - 20240829:
-    date: 29 August 2024
-    venue: Copenhagen Developers Festival
-    city: Copenhagen
-    country: "DK"
-    url: https://cphdevfest.com/
-  - 20240902:
-    date: 29 October 2024
-    venue: KanDDDinsky
-    city: Berlin
-    country: "DE"
-    url: https://kandddinsky.de/
-  - 20241114:
-    date: 14 November 2024
-    venue: Build Stuff
-    city: Vilnius
-    country: "LT"
-    url: https://buildstuff.events/
 ---
-<h3>Linebreakers Show Dates</h3>
-
-    <ol class="tour-dates">
-        {% for show in page.shows %}
-        <li>
-            <span>{{ show.date | date: "%-d %B %Y" }}</span>
-        <span><img src="/images/flags/flat/32/{{ show.country }}.png" alt="{{ show.country }}" />
-            </span>
-            <span>
-            <a href="{{ show.url }}">{{ show.venue }}</a>
-        </span>
-        </li>
-    {% endfor %}
-    </ol>
-<hr />
-<p>Live covers of classic tunes, from ABBA and Adele to Metallica and Nirvana, with the lyrics lovingly reworked to
-    see how many stupid jokes about programming, technology and the web will fit into a four-minute pop song.
-</p>
-<blockquote>The tech industry’s answer to Weird Al Yankovic</blockquote>
-<p>Since 2016, Linebreakers has been entertaining conference audiences and meetups all over the world, from
-    Kyiv to Kansas City, from Sydney to Siberia. We've played at the Copenhagen Developers Festival, NDC, BuildStuff,
-    DevSum, GOTO,
-    YOW!, DotNext, CodeFest, and many more.</p>
+<article class="tour-dates">
+	<h2>Upcoming Shows</h2>
+	{% assign new_shows = site.data.shows | where_exp: 'show', 'show.isodate >= site.time' | sort: 'isodate' %}
+	{% assign years = new_shows | group_by_exp: "show", "show.isodate | date: '%Y'" %}
+	{% for year in years %}
+	<h3>{{ year.name }}</h3>
+	<ol class="tour-dates">
+		{% for show in year.items %}
+		<li>
+			<span class="show-date">{{ show.isodate | date: "%a %-d %b" }}</span>
+			<img src="/images/flags/flat/32/{{ show.country }}.png" alt="{{ show.country }}" />
+			<span>
+			{{ show.city }}
+			<a href="{{ show.url }}">{{ show.venue }}</a>
+			</span>
+		</li>
+		{% endfor %}
+	</ol>
+	{% endfor %}
+	<p><a href="old-shows">Older Shows</a></p>
+</article>

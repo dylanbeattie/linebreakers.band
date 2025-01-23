@@ -1,0 +1,75 @@
+---
+layout: page
+---
+{% assign old_shows = site.data.shows | where_exp: "show", "show.isodate < site.time" | sort: 'isodate' | reverse %} {%
+	assign years=old_shows | group_by_exp: "show" , "show.isodate | date: '%Y'" %} {% assign count=0 %} <article
+	class="tour-dates">
+	<h2>Linebreakers Tour Dates Archive</h2>
+	{% for year in years %}
+	<h3>{{ year.name }}</h3>
+	{% if year.name == "2017" %}
+	<p>The first show we ever did as “Dylan Beattie and the Linebreakers”
+		was PubConf London in January 2018. Before that, Dylan, and
+		sometimes Vagif, would just show up to conference parties with
+		instruments and ask if we could play. They usually said yes.</p>
+	{% elsif year.name == "2021" %}
+	<p>GOTO Copenhagen and BuildStuff 2021 were supposed to be our first
+		proper live shows since the COVID lockdowns... except Dylan got COVID.
+		So we played them "live", with Dylan streaming from his home studio via a private YouTube link, which
+		the rest of the band projected on the screen behind them
+		and played along. The venue wifi in Vilnius was so bad Hannes ended
+		up tethering his laptop to his phone and running the stream
+		off mobile data.</p>
+	<p>NDC Oslo 2021 was the week the Omicron variant made headlines, and
+		we ended up being the only band who played the NDC party that night.</p>
+	<p>Which means that technically The Linebreakers have headlined the Oslo Spektrum Arena.</p>
+	<p>Hell yeah.</p>
+	{% elsif year.name == "2020" %}
+	<p>
+		<img src="/images/microbe.png" title="COVID-19" style="width: 64px; padding: 12px;" />
+		<img src="/images/microbe.png" title="COVID-19" style="width: 64px; padding: 12px;" />
+		<img src="/images/microbe.png" title="COVID-19" style="width: 64px; padding: 12px;" />
+	</p>
+	{% endif %}
+	<ol class="tour-dates">
+		{% if year.name == "2020" %}
+		<li>
+			<span class="show-date">Wed 459 Mar</span>
+			<img src="/images/flags/flat/32/_youtube.png" alt="_youtube" />
+			<span>Online <span>Re:factor</span></span>
+		</li>
+		<li>
+			<span class="show-date">Sun 365 Mar</span>
+			<img src="/images/flags/flat/32/_youtube.png" alt="_youtube" />
+			<span>Online <span>LambdaDays</span>
+			</span>
+		</li>
+		{% endif %}
+		{% for show in year.items %}
+		<li>
+			{% assign mar2020 = "2020-03-01" | date: "%s" -%}
+			{% assign dec2020 = "2020-12-31" | date: "%s" -%}
+			{% assign showdate = show.isodate | date: "%s" -%}
+			{% if showdate > mar2020 and showdate < dec2020 -%}
+				{% assign day=show.isodate | date: "%j" | minus: 60 -%}
+				<span class="show-date">
+				{{ show.isodate | date: "%a" }} {{ day }} Mar
+				</span>
+				{% else -%}
+				<span class="show-date">{{ show.isodate | date: "%a %-d %b" }}</span>
+				{% endif -%}
+				<img src="/images/flags/flat/32/{{ show.country }}.png" alt="{{ show.country }}" />
+				<span>
+					{{ show.city }}
+					<span>{{ show.venue }}</span>
+				</span>
+		</li>
+		{% if show.city != "Online" %}
+		{% assign count = count | plus: 1 %}
+		{% endif %}
+		{% endfor %}
+	</ol>
+	{% endfor %}
+	<p>That's {{ count }} real shows. Online shows don't count because they suck.</p>
+	<p>We'll do something fun for show #100.</p>
+	</article>

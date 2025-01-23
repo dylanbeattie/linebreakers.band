@@ -1,10 +1,14 @@
 ---
+code: html
 title: HTML
 original_title: Highway to Hell
 original_artist: "AC/DC"
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/jy66chppg1q0jzzd6nlu5/HTML-Solo-Mix.mp4?rlkey=ab16ek4u0qrg6g59ulnzqasew&dl=1
 duration: 3:37
+vocal: Dylan
+class: rock
+
 ---
 ```lyrics
 W3C, RFC

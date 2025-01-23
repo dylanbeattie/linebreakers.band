@@ -3,7 +3,7 @@
 
 <head>
 	<title>Linebreakers</title>
-	<link type="text/css" rel="stylesheet" href="css/styles.css" />
+	<link type="text/css" rel="stylesheet" href="/css/styles.css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta property="og:title" content="The Linebreakers" />
 	<meta property="og:type" content="article" />
@@ -20,21 +20,15 @@
 <body class="page">
 	<header>
 		<a href="/">
-		<h1 id="logotype">The Linebreakers</h1></a>
+			<h1 id="logotype">The Linebreakers</h1>
+		</a>
 		<h2>&nbsp;TECH, BUGS <small>&</small> ROCK<small>‘n’</small>ROLL</h2>
-		<nav>
-			<a href="/about">about</a>
-			&bull;
-			<a href="/shows">shows</a>
-			&bull;
-			<a href="https://www.youtube.com/@TheLinebreakers">YouTube</a>
-			&bull;
-			<a href="mailto:hello@linebreakers.band">hello@linebreakers.band</a>
-		</nav>
+		{% include nav.html %}
 	</header>
 	<main>
 		{{ content }}
 	</main>
+	{% include footer.html %}
 </body>
 
 </html>

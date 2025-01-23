@@ -1,10 +1,14 @@
 ---
+code: hh
 title: Hello Helpdesk
 original_title: Burning Bridges
 original_artist: Status Quo
 layout: song
 dropbox: https://www.dropbox.com/s/9bom75hqydqkuns/Hello%20Helpdesk%20-%20Solo%20Mix.mp4?dl=1
 duration: 6:00
+vocal: Dylan
+class: rock
+
 ---
 
 Sheet music for instrumental parts: [hello-helpdesk.pdf](pdfs/hello-helpdesk.pdf)

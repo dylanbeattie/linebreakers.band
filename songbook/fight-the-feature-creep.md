@@ -1,10 +1,14 @@
 ---
+code: ftfc
 title: Fight the Feature Creep
 original_title: "Rolling in the Deep"
 original_artist: Adele
 layout: song
 dropbox: https://www.dropbox.com/s/lsz5ubeg1ssaabg/Fight%20the%20Feature%20Creep%20-%20Solo%20Mix.mp4?dl=1
 duration: 3:53
+vocal: Heather
+class: ballad
+
 ---
 ```lyrics
 [Intro]

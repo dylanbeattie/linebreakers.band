@@ -1,0 +1,375 @@
+- isodate: 2025-01-30 23:59:59
+  venue: NDC London
+  city: London
+  country: "GB"
+  url: https://ndclondon.com/
+- isodate: 2024-11-14 23:59:59
+  venue: Build Stuff
+  city: Vilnius
+  country: "LT"
+  url: https://buildstuff.events/
+- isodate: 2024-10-29 23:59:59
+  venue: KanDDDinsky
+  city: Berlin
+  country: "DE"
+  url: https://kandddinsky.de/
+- isodate: 2024-08-29 23:59:59
+  venue: Developers Festival
+  city: Copenhagen
+  country: "DK"
+  url: https://cphdevfest.com/
+- isodate: 2024-06-14 23:59:59
+  venue: Brewgata
+  city: Oslo
+  country: "NO"
+  url: https://www.facebook.com/events/1133621604513111
+- isodate: 2024-06-13 23:59:59
+  venue: NDC Oslo
+  city: Oslo
+  country: "NO"
+  url: https://ndcoslo.com/
+- isodate: 2024-04-04 23:59:59
+  venue: CityJS
+  city: London
+  country: "GB"
+  url: https://london.cityjs.com/
+- isodate: 2024-02-01 23:59:59
+  venue: NDC London
+  city: London
+  country: "GB"
+  url: https://ndclondon.com/
+- isodate: 2023-11-15 23:59:59
+  venue: Build Stuff
+  city: Vilnius
+  country: "LT"
+  url: https://buildstuff.lt/
+- isodate: 2023-09-27 23:59:59
+  venue: DrivUn
+  city: Amsterdam
+  country: "NL"
+  url: https://drivun.co/
+- isodate: 2023-08-31 23:59:59
+  venue: Developers Festival
+  city: Copenhagen
+  country: "DK"
+  url: https://cphdevfest.dk/
+- isodate: 2023-07-10 23:59:59
+  venue: WeAreDevelopers
+  city: Berlin
+  country: "DE"
+  url: https://wearedevelopers.com/
+- isodate: 2023-06-22 23:59:59
+  venue: GOTO Amsterdam
+  city: Amsterdam
+  country: "NL"
+  url: https://gotoams.nl/
+- isodate: 2023-06-13 23:59:59
+  venue: Joy of Coding
+  city: Rotterdam
+  country: "NL"
+  url: https://joyofcoding.org/
+- isodate: 2023-05-29 23:59:59
+  venue: CityJS
+  city: Athens
+  country: "GR"
+  url: https://greece.cityjsconf.org/
+- isodate: 2023-05-08 23:59:59
+  venue: DevSum
+  city: Stockholm
+  country: "SE"
+  url: https://devsum.se/
+- isodate: 2023-05-04 23:59:59
+  venue: CodeCamp
+  city: Bucharest
+  country: "RO"
+  url: https://codecamp.bucharest/
+- isodate: 2023-01-26 23:59:59
+  venue: NDC London
+  city: London
+  country: "GB"
+  url: https://ndclondon.com/
+- isodate: 2022-11-29 23:59:59
+  venue: YOW! London
+  city: London
+  country: "GB"
+  url: https://yowlondon.com/2022
+- isodate: 2022-11-10 23:59:59
+  venue: Build Stuff
+  city: Vilnius
+  country: "LT"
+  url: https://buildstuff.lt/
+- isodate: 2022-10-29 23:59:59
+  venue: Miles Camp
+  city: Oslo
+  country: "NO"
+- isodate: 2022-09-29 23:59:59
+  venue: NDC Oslo
+  city: Oslo
+  country: "NO"
+- isodate: 2022-07-27 23:59:59
+  venue: FullStack
+  city: London
+  country: "GB"
+- isodate: 2022-06-30 23:59:59
+  venue: Azure Lowlands
+  city: Utrecht
+  country: "NL"
+- isodate: 2022-05-19 23:59:59
+  venue: CodeCamp
+  city: Bucharest
+  country: "RO"
+- isodate: 2022-05-03 23:59:59
+  venue: JFokus
+  city: Stockholm
+  country: "SE"
+- isodate: 2022-04-28 23:59:59
+  venue: NDC Porto
+  city: Porto
+  country: "PT"
+- isodate: 2022-04-22 23:59:59
+  venue: digit.dev
+  city: Tartu
+  country: "EE"
+- isodate: 2021-12-02 23:59:59
+  venue: NDC Oslo
+  city: Oslo
+  country: "NO"
+- isodate: 2021-11-18 23:59:59
+  venue: BuildStuff
+  city: Vilnius
+  country: "LT"
+- isodate: 2021-11-09 23:59:59
+  venue: GOTO Copenhagen
+  city: Copenhagen
+  country: "DK"
+# - isodate: 2021-06-02 23:59:59
+#   venue: "Re:factor"
+#   city: Online
+#   country: "_youtube"
+# - isodate: 2021-02-28 23:59:59
+#   venue: LambdaDays
+#   city: Online
+#   country: "_youtube"
+- isodate: 2020-12-27 23:59:59
+  venue: Dylan's Holidays on the Holodeck
+  city: Online
+  country: "_youtube"
+  url: https://dylanbeattie.net/holodeck
+- isodate: 2020-11-12 23:59:59
+  venue: BuildStuff
+  city: Online
+  country: "_youtube"
+- isodate: 2020-10-30 23:59:59
+  venue: HalfStack
+  city: Online
+  country: "_youtube"
+- isodate: 2020-10-14 23:59:59
+  venue: NDC Sydney
+  city: Online
+  country: "_youtube"
+- isodate: 2020-07-04 23:59:59
+  venue: Dylan's Lockdown Rockdown
+  city: Online
+  country: "_youtube"
+- isodate: 2020-06-11 23:59:59
+  venue: NDC Oslo
+  city: Online
+  country: "_youtube"
+- isodate: 2020-05-28 23:59:59
+  venue: DevSum
+  city: Online
+  country: "_youtube"
+- isodate: 2020-04-23 23:59:59
+  venue: NDC Porto
+  city: Online
+  country: "_youtube"
+- isodate: 2020-04-02 23:59:59
+  venue: NDC Copenhagen
+  city: Online
+  country: "_youtube"
+- isodate: 2020-03-04 23:59:59
+  venue: GOTO Oslo
+  city: DFDS Crown Seaways 🚢
+  country: "DK-NO"
+- isodate: 2020-01-30 23:59:59
+  venue: NDC London
+  city: London
+  country: "GB"
+- isodate: 2020-01-23 23:59:59
+  venue: Flutter Europe
+  city: Warsaw
+  country: "PL"
+  who: [DB]
+- isodate: 2019-11-22 23:59:59
+  venue: HalfStack
+  city: London
+  country: "GB"
+  who: [DB, DS]
+- isodate: 2019-11-18 23:59:59
+  venue: BuildStuff
+  city: Kyiv
+  country: "UA"
+  who: [DB, DS, HL, VA, HD, MR]
+- isodate: 2019-11-14 23:59:59
+  venue: BuildStuff
+  city: Vilnius
+  country: "LT"
+  who: [DB, DS, HL, VA, HD, MR]
+- isodate: 2019-11-08 23:59:59
+  venue: Umbraco UK Festival
+  city: London
+  country: "GB"
+  who: [DB, DS, VA]
+- isodate: 2019-11-07 23:59:59
+  venue: CodeMesh
+  city: London
+  country: "GB"
+  who: [DB, DS, VA]
+- isodate: 2019-10-28 23:59:59
+  venue: Hack Manchester
+  city: Manchester
+  country: "GB"
+- isodate: 2019-10-27 23:59:59
+  venue: PubConf
+  city: Nottingham
+  country: "GB"
+- isodate: 2019-10-17 23:59:59
+  venue: KanDDDinsky
+  city: Berlin
+  country: "DE"
+- isodate: 2019-07-19 23:59:59
+  venue: PubConf KCDC
+  city: Kansas City
+  country: "US"
+- isodate: 2019-07-11 23:59:59
+  venue: FullStack
+  city: London
+  country: "GB"
+- isodate: 2019-06-20 23:59:59
+  venue: NDC Oslo
+  city: Oslo
+  country: "NO"
+- isodate: 2019-06-08 23:59:59
+  venue: .NET Summit
+  city: Minsk
+  country: "BY"
+- isodate: 2019-05-15 23:59:59
+  venue: DotNext
+  city: St Petersburg
+  country: "RU"
+- isodate: 2019-05-04 23:59:59
+  venue: BuildStuff
+  city: Málaga
+  country: "ES"
+- isodate: 2019-04-03 23:59:59
+  venue: F# Exchange
+  city: London
+  country: "GB"
+- isodate: 2019-03-29 23:59:59
+  venue: CodeFest
+  city: Novosibirsk
+  country: "RU"
+- isodate: 2019-01-31 23:59:59
+  venue: NDC London
+  city: London
+  country: "GB"
+- isodate: 2018-12-10 23:59:59
+  venue: Tech Nottingham
+  city: Nottingham
+  country: "GB"
+- isodate: 2018-11-22 23:59:59
+  venue: DotNext
+  city: Moscow
+  country: "RU"
+- isodate: 2018-11-15 23:59:59
+  venue: BuildStuff
+  city: Vilnius
+  country: "LT"
+- isodate: 2018-10-26 23:59:59
+  venue: .NET Fest
+  city: Kyiv
+  country: "UA"
+- isodate: 2018-09-21 23:59:59
+  venue: PubConf
+  city: Sydney
+  country: "AU"
+- isodate: 2018-09-13 23:59:59
+  venue: ProgNET
+  city: London
+  country: "GB"
+- isodate: 2018-06-14 23:59:59
+  venue: PubConf
+  city: Oslo
+  country: "NO"
+- isodate: 2018-05-11 23:59:59
+  venue: NDC Minnesota
+  city: Minneapolis
+  country: "US"
+- isodate: 2018-04-22 23:59:59
+  venue: DotNext
+  city: St Petersburg
+  country: "RU"
+- isodate: 2018-04-05 23:59:59
+  venue: F# Exchange
+  city: London
+  country: "GB"
+- isodate: 2018-03-31 23:59:59
+  venue: CodeFest
+  city: Novosibirsk
+  country: "RU"
+- isodate: 2018-01-19 23:59:59
+  venue: PubConf
+  city: London
+  country: "GB"
+- isodate: 2017-11-16 23:59:59
+  venue: BuildStuff
+  city: Vilnius
+  country: "LT"
+- isodate: 2017-11-11 23:59:59
+  venue: DotNext
+  city: Moscow
+  country: "RU"
+- isodate: 2017-06-16 23:59:59
+  venue: PubConf
+  city: Oslo
+  country: "NO"
+- isodate: 2017-05-19 23:59:59
+  venue: DotNext
+  city: St Petersburg
+  country: "RU"
+- isodate: 2017-01-20 23:59:59
+  venue: PubConf
+  city: London
+  country: "GB"
+- isodate: 2016-11-21 23:59:59
+  venue: BuildStuff
+  city: Kyiv
+  country: "UA"
+- isodate: 2016-11-17 23:59:59
+  venue: BuildStuff
+  city: Vilnius
+  country: "LT"
+- isodate: 2016-10-27 23:59:59
+  venue: DroidCon
+  city: London
+  country: "GB"
+- isodate: 2016-08-06 23:59:59
+  venue: PubConf
+  city: Sydney
+  country: "AU"
+- isodate: 2016-07-08 23:59:59
+  venue: BuildStuff
+  city: Одеса
+  country: "UA"
+- isodate: 2016-06-11 23:59:59
+  venue: PubConf
+  city: Oslo
+  country: "NO"
+# - isodate: 2016-05-16 23:59:59
+#   venue: Farewell Pieter
+#   country: "BE"
+#   city: Brussels
+- isodate: 2016-01-14 23:59:59
+  venue: NDC London
+  city: London
+  country: "GB"

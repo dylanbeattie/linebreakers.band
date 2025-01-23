@@ -1,10 +1,12 @@
 ---
+code: rg
 title: Reply Guy
 original_title: Bad Guy
 original_artist: Billie Eilish
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/epu7nyr0jy1ntju324rb9/ReplyGuyDrums.mp4?rlkey=x3ka63a5985xpwxfc3zqwtg7t&dl=1
 duration: 3:16
+vocal: Heather
 ---
 ```lyrics
 Verse 1
@@ -37,7 +39,7 @@ I like to tell you you are wrong,
 It makes me feel so big and strong,
 I don’t think girls like you belong,
 On social media
- 
+
 Post-Chorus
 I’m Reply Guy, duh
 I’m only brave on my keypad

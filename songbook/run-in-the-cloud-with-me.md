@@ -1,20 +1,24 @@
 ---
+code: rcm
 title: Run in the Cloud With Me
 original_title: Lay All Your Love On Me
 original_artist: ABBA
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/gzra6adh4o18hcu6theew/Run-In-The-Cloud-With-Me-Trio-Mix.mp4?rlkey=jvw156heg19y48qwnu30x20vq&dl=1
 duration: 4:48
+vocal: Heather
+class: disco
+
 ---
 ```lyrics
 
 Intro:
 Dm A     | Dm A Dm        | A#   | A    |
 Dm C/E F | A#    C  C7    | F    |      |
- 
+
 Dm A.    | Dm A  Dm       | A#   | A    |
 Dm C/E F | A#    C  C7    | F    |      |
- 
+
 Dm       |                |.     |      |
 
 Dm
@@ -32,7 +36,7 @@ And all you've learned has overturned, I'm telling you
 
 Dm    A  Dm  A    Dm   G  Gb   A
 Don't go was-ting your re-sour-ces
-Dm  C/E F  Gm    C7   F 
+Dm  C/E F  Gm    C7   F
 Run in the cloud with me
 
 
@@ -73,12 +77,12 @@ Run in the cloud with me
 Intro]
 Dm A  | Dm A Dm   | A# | A |
 Dm C/E F | A#    C  C7    | F    |      |
- 
+
 Dm A   | Dm A  Dm  | A#  | A    |
 Dm C/E F | A#    C  C7    | F    |      |
- 
+
 Dm | | | |
- 
+
 [Verse 1]
 Dm
    I wasn't jealous before we met
@@ -87,22 +91,22 @@ Dm
 Dm
    And I'm possessive, it isn't nice
                                               C
-   You've heard me saying that smoking was my only vice 
+   You've heard me saying that smoking was my only vice
 [Pre-Chorus 1]
     Dm
 But now it isn't true    A7
 Now everything is new    Dm                   A7
 And all I've learned has o  -  verturned  Dm        G
-I beg of you 
+I beg of you
 [Chorus 1]
 Dm    A   Dm A    Dm     A#  A
 Don't go  wasting your e  -  mo - tion
 Dm  C/E F    A#  C7 F
 Lay all your love on me
- 
+
 [Interlude 1]
 Dm | |
- 
+
 [Verse 2]
 Dm
    It was like shooting a sitting duck
@@ -111,13 +115,13 @@ Dm
 Dm
    I still don't know what you've done with me
                                          C
-   A grown-up woman should never fall so easily 
+   A grown-up woman should never fall so easily
 [Pre-Chorus 2]
   Dm
 I feel a kind of fear     A7
 When I don't have you near  Dm           A7
 Unsatisfied, I skip  my pride  Dm          G
-I beg you dear 
+I beg you dear
 [Chorus 2]
 Dm    A   Dm A    Dm     A#  A
 Don't go  wasting your e  -  mo - tion
@@ -127,10 +131,10 @@ Dm    A  Dm A    Dm      A#  A
 Don't go  sharing your de  -  vo - tion
 Dm  C/E F    A#  C7 F
 Lay all your love on me
- 
+
 [Interlude 2]
 Dm | | | |
- 
+
 [Verse 3]
 Dm
    I've had a few little love affairs
@@ -139,13 +143,13 @@ Dm
 Dm
    I used to think I was sensible
                                         C
-   It makes the truth even more incomprehensible 
+   It makes the truth even more incomprehensible
 [Pre-Chorus 3]
        Dm
 'Cause everything is new     A7
  And everything is you     Dm                   A7
  And all I've learned has o  -  verturned      Dm      G
- What can I do 
+ What can I do
 [Final chorus]
 Dm    A   Dm A    Dm     A#  A
 Don't go  wasting your e  -  mo - tion
@@ -155,7 +159,7 @@ Dm    A   Dm A    Dm      A#  A
 Don't go  sharing your de  -  vo - tion
 Dm  C/E F    A#  C7 F
 Lay all your love on me
- 
+
 [Outro]
 (repeat to fade)
 Dm    A   Dm A    Dm     A#  A

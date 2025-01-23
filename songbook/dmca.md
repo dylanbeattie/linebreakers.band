@@ -1,10 +1,14 @@
 ---
+code: dmca
 title: DMCA
 original_title: YMCA
 original_artist: Village People
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/vswuwv9cv0bxvuft5bppe/DMCA-Solo-Mix.mp4?rlkey=fh8b5er5asovnptfmvdz41xdm&dl=1
 duration: 3:51
+vocal: Dylan
+class: disco
+
 ---
 ```lyrics
 (intro)

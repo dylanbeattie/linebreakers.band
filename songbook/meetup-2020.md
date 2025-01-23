@@ -1,10 +1,14 @@
 ---
+code: m2k
 title: Meetup 2020
 original_title: Disco 2000
 original_artist: Pulp
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/2v4ypuf35tbjefqynxnzg/Meetup-2020-Trio-Mix.mp4?rlkey=13y9plf805p41albuts4qh0ay&dl=1
 duration: 4:52
+vocal: Dylan
+class: rock
+
 ---
 Key: E (original Pulp recording is in F)
 

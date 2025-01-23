@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rider.md",
+                "file": "songbook/seven-bit-encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rider.md",
+                "file": "songbook/seven-bit-encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rider.md",
+                "file": "songbook/seven-bit-encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rider.md"
+                "file": "songbook/seven-bit-encoding.md"
               }
             }
           }
@@ -156,16 +156,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8da98b700e546799",
   "lastOpenFiles": [
+    "songbook/drafts/Du Hast.md",
+    "songbook/enter-stallman.md",
+    "songbook/drafts",
+    "songbook/seven-bit-encoding.md",
+    "songbook/run-in-the-cloud-with-me.md",
+    "songbook/Untitled.md",
+    "songbook/fizzbuzz.md",
+    "songbook/smells-like-kubernetes.md",
+    "songbook/summer-of-69.md",
+    "rider.md",
     "images/linebreakers-ndc-london-2023.jpg",
     "2024-06-07.md",
     "_site/rider.html",
-    "_site/rider.md",
-    "songbook/enter-stallman.md",
-    "rider.md"
+    "_site/rider.md"
   ]
 }

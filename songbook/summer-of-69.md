@@ -1,10 +1,14 @@
 ---
+code: s69
 title: "Summer of '69"
 original_title: "Summer of '69"
 original_artist: Bryan Adams
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/sqidtmsg80oliyv96jlty/Summer-of-69-CPH-Dev-Fest.mp4?rlkey=hcniok788x370exdr32mdi4p0&dl=1
 duration: 3:40
+vocal: Dylan
+class: rock
+
 ---
 ```lyrics
 Thunder of the Saturn engines,

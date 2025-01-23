@@ -1,10 +1,14 @@
 ---
+code: lvi
 title: Learn vi
 original_title: "Learn to Fly"
 original_artist: Foo Fighters
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/9esdskz2ub1z0dqvl2qxj/Learn-vi-CPH-Dev-Fest.mp4?rlkey=hxoys3mhclu8b4v0htkeicwts&dl=1
 duration: 4:00
+vocal: Hannes
+class: rock
+
 ---
 ```lyrics
 Running through all of the changes,

@@ -1,10 +1,12 @@
 ---
+code: brw
 title: Big Rewrite
 original_title: American Pie
 original_artist: Don McLean
 layout: song
 dropbox: https://www.dropbox.com/s/3zmyiyvskfk00re/Big%20Rewrite%20-%20Solo%20Mix.mp4?dl=1
 duration: 8:34
+vocal: Dylan
 ---
 ```lyrics
   G     D    Em

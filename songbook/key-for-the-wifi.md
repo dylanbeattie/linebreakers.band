@@ -1,10 +1,14 @@
 ---
+code: wifi
 title: Key for the Wifi
 original_title: "Pretty Fly (For a White Guy)"
 original_artist: The Offspring
 layout: song
 dropbox: https://www.dropbox.com/scl/fi/vthop9tz2oea4p88dn3x8/Key-To-Your-WiFi.mp4?rlkey=aipvzczyag0m7ar2gvbc2ygyy&dl=1
 duration: 3:11
+vocal: Heather
+class: rock
+
 ---
 ```lyrics
 Give it to me, baby, huh huh, huh huh

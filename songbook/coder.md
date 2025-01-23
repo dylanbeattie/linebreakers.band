@@ -1,10 +1,13 @@
 ---
+code: cdr
 title: Coder
 original_title: Human
 original_artist: Killers
 layout: song
 dropbox: https://www.dropbox.com/s/ddl0ovmxhe68efo/Coder%20-%20Solo%20Mix.mp4?dl=1
 duration: 4:11
+vocal: Rendle
+class: rock
 ---
 ```lyrics
 I did my best to fix it,
