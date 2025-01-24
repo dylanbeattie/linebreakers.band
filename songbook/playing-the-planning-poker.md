@@ -10,6 +10,8 @@ duration: 4:05
 
 ```lyrics
 
+Count-in: 1, 1, 2, 3, 5, 8
+
 (Intro: Am)
 
 Am
@@ -32,7 +34,7 @@ For a thousand pounds a day,
 Am                 G                    Am
 No more estimates, playing the planning poker,
 Am                       G                    Am
-We don’t innovate, we’re playing the planning poker
+Points don't equal days, playing the planning poker
 Am                     G               Am
 Backlog is a mess, our stories are mediocre,
 Am                       G                    Am
@@ -48,14 +50,14 @@ Playing the planning poker
 (interlude)
 
 Am NC
-  Set up a new committee to define our coding style,
+We hired a product owner, should have seen their poker face,  
 Am
-First up: tabs or spaces? Gonna be here for a while 
+They thought that Fibonacci was a kind of database
 
    Dm                     Em
 At every retrospective we review the status quo,
     F                             G
-But nothing ever changes, 'cos we know just for show,
+But nothing ever changes, 'cos we know it's just for show,
     E7
 And around and round we go…
 
@@ -64,3 +66,4 @@ CHORUS
 (Guitar solo - 8 bars)
 
 ```
+
