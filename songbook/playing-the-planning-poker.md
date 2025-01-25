@@ -40,14 +40,14 @@ Backlog is a mess, our stories are mediocre,
 Am                       G                    Am
 Don’t investigate, we’re playing the planning poker
 
+G                    Am
+Playing the planning poker
+G                    Am
+Playing the planning poker
+
 (Guitar solo - 4 bars)
 
-G                    Am
-Playing the planning poker
-G                    Am
-Playing the planning poker
-
-(interlude)
+(interlude - brass + melody)
 
 Am NC
 We hired a product owner, should have seen their poker face,  

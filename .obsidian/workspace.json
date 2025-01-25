@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "songbook/hello-helpdesk.md",
+                "file": "songbook/user-story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello-helpdesk"
+              "title": "user-story"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "songbook/hello-helpdesk.md"
+                "file": "songbook/user-story.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of hello-helpdesk"
+              "title": "Outline of user-story"
             }
           }
         ]
@@ -179,9 +179,11 @@
   },
   "active": "8da98b700e546799",
   "lastOpenFiles": [
-    "songbook/playing-the-planning-poker.md",
-    "songbook/seven-bit-encoding.md",
+    "songbook/drafts/team-is-burning-out.md",
     "songbook/drafts/Du Hast.md",
+    "songbook/playing-the-planning-poker.md",
+    "songbook/hello-helpdesk.md",
+    "songbook/seven-bit-encoding.md",
     "songbook/enter-stallman.md",
     "songbook/drafts",
     "songbook/run-in-the-cloud-with-me.md",
