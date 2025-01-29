@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "songbook/user-story.md",
+                "file": "setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "user-story"
+              "title": "setup"
             }
           }
         ],
@@ -179,6 +179,11 @@
   },
   "active": "8da98b700e546799",
   "lastOpenFiles": [
+    "_site/songbook/drafts/team-is-burning-out.md",
+    "_site/setup.html",
+    "rider.md",
+    "setup.md",
+    "songbook/user-story.md",
     "songbook/drafts/team-is-burning-out.md",
     "songbook/drafts/Du Hast.md",
     "songbook/playing-the-planning-poker.md",
@@ -191,7 +196,6 @@
     "songbook/fizzbuzz.md",
     "songbook/smells-like-kubernetes.md",
     "songbook/summer-of-69.md",
-    "rider.md",
     "images/linebreakers-ndc-london-2023.jpg",
     "2024-06-07.md",
     "_site/rider.html",
