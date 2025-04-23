@@ -31,13 +31,13 @@ Let’s check that your browser cache is cleared
 [Chorus]
     D                   A    E   D            A
 Turn it off and on again,        Check the power supply
-D                                A/Db           B           E    E7
-Worked, but now it’s gone again, One more thing that we can try
+D                               A E  C#             D#          E    E7
+Worked, but now it’s gone again,     One more thing that we can try
 D                       A   E   D               A
 Press Control and try again,    It works, we don’t know why
-D
+D                             A E
 The system is alive again,
-A/Db          B             E     E7
+C#           D#             E     E7
 Thank you for calling, good bye
 
 [Verse 2]

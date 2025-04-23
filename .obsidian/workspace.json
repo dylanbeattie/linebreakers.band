@@ -16,7 +16,9 @@
                 "file": "songbook/enter-stallman.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "enter-stallman"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "songbook/seven-bit-encoding.md",
+                "file": "setup.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "setup"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,14 +83,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bf5f6d56ccb1b9a1",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for playing-the-planning-poker"
             }
           },
           {
@@ -118,7 +130,9 @@
                 "file": "songbook/seven-bit-encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from playing-the-planning-poker"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "songbook/seven-bit-encoding.md"
-              }
+                "file": "songbook/user-story.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of user-story"
             }
           }
         ]
@@ -156,22 +174,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "8da98b700e546799",
   "lastOpenFiles": [
+    "_site/songbook/drafts/team-is-burning-out.md",
+    "_site/setup.html",
+    "rider.md",
+    "setup.md",
+    "songbook/user-story.md",
+    "songbook/drafts/team-is-burning-out.md",
     "songbook/drafts/Du Hast.md",
+    "songbook/playing-the-planning-poker.md",
+    "songbook/hello-helpdesk.md",
+    "songbook/seven-bit-encoding.md",
     "songbook/enter-stallman.md",
     "songbook/drafts",
-    "songbook/seven-bit-encoding.md",
     "songbook/run-in-the-cloud-with-me.md",
     "songbook/Untitled.md",
     "songbook/fizzbuzz.md",
     "songbook/smells-like-kubernetes.md",
     "songbook/summer-of-69.md",
-    "rider.md",
     "images/linebreakers-ndc-london-2023.jpg",
     "2024-06-07.md",
     "_site/rider.html",
