@@ -29,7 +29,7 @@ F#m
 [Verse]
  
 F#m                                   Bm
-    We set up a server, it ran really well
+    We set up a server, we gave it a shell
 F#m                            E/G#           A
     Apache and Qmail and perl,     and My-S-Q-L
 D              E
@@ -49,22 +49,18 @@ It's the final shutdown...
  
 [Verse]
  
-F#m                                            Bm
-    The told us that servers, were cattle not pets,
-F#m
-    They didn't deserve us
-    E/G#     A
-But we've no regrets
+F#m                                             Bm
+    They told us that servers, were cattle, not pets,
+F#m                             E/G#        A
+    They didn't deserve us, but we've no regrets
 D              E
   With so much they needed to know
 A     E/G#         F#m     E     D
   we stuck around  (stuck around)
                     C#m           E
-But we've done it all, time to go.
- 
+Now we've done it all, time to go.
  
 [Chorus]
- 
                F#m        D      Bm      E
 It's the final shutdown...
                F#m        D      Bm      E
@@ -72,20 +68,17 @@ It's the final shutdown...
                F#m    E/G#  A  D  C#
      The final shutdown...       Ohhh
 F#m
- 
- 
-[Instrumental]
- 
+
+[Instrumental] 
 Bm  A/C#  D  G  Em  A  Bm  F#m
 Bm  A/C#  D  G  Em  A  Bm  C#
 F#m  D  Bm  E
 F#m  D  Bm  E
+
           F#m    E/G#  A  D    C#
 The final shutdown...      Oh-oh
  
- 
-[Chorus]
- 
+[Chorus] 
                F#m        D      Bm      E
 It's the final shutdown...
                F#m        D      Bm      E
@@ -100,5 +93,4 @@ It's the final shutdown.   We're leaving together
 It's the final shutdown. The final shutdown  Ohhh,
                F#m
 It's the final shutdown.
-
 ```
