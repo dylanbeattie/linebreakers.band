@@ -75,15 +75,16 @@ layout: page
 		background-color: #000;
 	}
 
-	div#friendly-setlist {
-		display: grid;
-		grid-template-columns: 4em 1fr;
+	ol#friendly-setlist {
+		margin: 0;
+		padding: 0;
+		li {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		}
 	}
 
-	div#friend-setlist span {
-		display: block;
-		margin-bottom: 8px;
-	}
 </style>
 <h2>Linebreakers Set List Builder • <a href="setlist-builder">reset</a></h2>
 <label for="stage-time-input">Stage time (hh:mm)</label>
@@ -114,9 +115,9 @@ layout: page
 	</ul>
 </div>
 <h4 id="setlist-title">Set List (0:00)</h4>
-<div id="friendly-setlist">
+<ol id="friendly-setlist">
 
-</div>
+</ol>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"
 	integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.14.0/jquery-ui.min.js"
@@ -149,10 +150,12 @@ layout: page
 		var songTime = 3600 * stageTimeHour + 60 * stageTimeMinute;
 		var setListHtml = new Array();
 		for (var item of items) {
-			setListHtml.push("<span>" + hhmm(Math.ceil(songTime / 60) * 60) + "</span><span>" + item.innerHTML + "</span>");
+			let itemHtml = item.innerHTML.replace(/\((\d+:\d+)\)/, '<em>($1)</em>');
+			setListHtml.push("<li>" + hhmm(Math.ceil(songTime / 60) * 60) + ": " + itemHtml + "</li>");
 			songTime += parseInt(item.dataset.duration) + gapLength;
 		}
-		setListHtml.push("<span>" + hhmm(Math.ceil(songTime / 60) * 60) + "</span><span>FINISH</span>");
+		setListHtml.push("<li>" + hhmm(Math.ceil(songTime / 60) * 60) + ": FINISH</li>");
+		setListHtml.push(`<li><br>${window.location}</li>`);
 		document.getElementById("friendly-setlist").innerHTML = setListHtml.join("");;
 
 		let names = items.map(li => li.id).join(",");
