@@ -4,9 +4,7 @@ nav_order: 00
 layout: page
 ---
 <style>
-	.builder {
-		display: flex;
-	}
+	.builder { display: flex; }
 
 	ul.draggable {
 		list-style-type: none !important;
@@ -18,13 +16,8 @@ layout: page
 		overflow-y: auto;
 	}
 
-	ul#catalog {
-		width: 65%;
-	}
-
-	ul#setlist {
-		width: 35%;
-	}
+	ul#catalog { width: 65%; }
+	ul#setlist { width: 35%; }
 
 	ul#catalog li {
 		display: inline-block;
@@ -53,21 +46,13 @@ layout: page
 		text-align: right;
 	}
 
-	/* ul.draggable li.rock {
-		background-color: #660000;
-	}
-
+	/* ul.draggable li.rock { background-color: #660000; }
 	ul.draggable li.disco {
 		background-color: #330066;
 	} */
 
-	ul.draggable li.break {
-		background-color: #666;
-	}
-
-	ul.draggable li::before {
-		content: "" !important;
-	}
+	ul.draggable li.break { background-color: #666; }
+	ul.draggable li::before { content: "" !important; }
 
 	ul.draggable li.placeholder {
 		height: 1.2em;
@@ -78,19 +63,21 @@ layout: page
 	ol#friendly-setlist {
 		margin: 0;
 		padding: 0;
+
 		li {
-		list-style: none;
-		margin: 0;
-		padding: 0;
+			list-style: none;
+			margin: 0;
+			padding: 0;
 		}
 	}
-
 </style>
 <h2>Linebreakers Set List Builder • <a href="setlist-builder">reset</a></h2>
 <label for="stage-time-input">Stage time (hh:mm)</label>
-<input type="time" name="stage-time" step="300" id="stage-time-input" value="21:00" />
+<input type="time" name="stage-time" step="300" id="stage-time-input"
+	value="21:00" />
 <label for="song-gap-input">Gap between songs (seconds)</label>
-<input type="number" name="song-gap" maxlength="3" size="3" id="song-gap-input" value="60" />
+<input type="number" name="song-gap" maxlength="3" size="3" id="song-gap-input"
+	value="60" />
 
 <div class="builder">
 	{% assign all_pages = site.pages %}
@@ -99,19 +86,26 @@ layout: page
 	</ul>
 	<ul id="catalog" class="draggable">
 		{% for song in songs %}
-		<li class="draggable-song {{ song.class }}" draggable="true" id="{{ song.code }}"
-			data-duration="{{ song.duration | floor }}">
-			{{ song.title }} ({{song.duration | divided_by: 60 | floor }}:{{song.duration | modulo: 60 | floor | plus:
+		<li class="draggable-song {{ song.class }}" draggable="true"
+			id="{{ song.code }}" data-duration="{{ song.duration | floor }}">
+			{{ song.title }} ({{song.duration | divided_by: 60 | floor
+			}}:{{song.duration | modulo: 60 | floor | plus:
 			100 | slice: 1, 2 }})
 		</li>
 		{% endfor %}
 		<br />
-		<li class="draggable-song break" draggable="true" id="b5a" data-duration="300">5 minute break</li>
-		<li class="draggable-song break" draggable="true" id="b5b" data-duration="300">5 minute break</li>
-		<li class="draggable-song break" draggable="true" id="b5c" data-duration="300">5 minute break </li>
-		<li class="draggable-song break" draggable="true" id="b15a" data-duration="900">15 minute break</li>
-		<li class="draggable-song break" draggable="true" id="b15b" data-duration="900">15 minute break</li>
-		<li class="draggable-song break" draggable="true" id="b15c" data-duration="900">15 minute break</li>
+		<li class="draggable-song break" draggable="true" id="b5a"
+			data-duration="300">5 minute break</li>
+		<li class="draggable-song break" draggable="true" id="b5b"
+			data-duration="300">5 minute break</li>
+		<li class="draggable-song break" draggable="true" id="b5c"
+			data-duration="300">5 minute break </li>
+		<li class="draggable-song break" draggable="true" id="b15a"
+			data-duration="900">15 minute break</li>
+		<li class="draggable-song break" draggable="true" id="b15b"
+			data-duration="900">15 minute break</li>
+		<li class="draggable-song break" draggable="true" id="b15c"
+			data-duration="900">15 minute break</li>
 	</ul>
 </div>
 <h4 id="setlist-title">Set List (0:00)</h4>
@@ -119,9 +113,11 @@ layout: page
 
 </ol>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"
-	integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+	integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+	crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.14.0/jquery-ui.min.js"
-	integrity="sha256-Fb0zP4jE3JHqu+IBB9YktLcSjI1Zc6J2b6gTjB0LpoM=" crossorigin="anonymous"></script>
+	integrity="sha256-Fb0zP4jE3JHqu+IBB9YktLcSjI1Zc6J2b6gTjB0LpoM="
+	crossorigin="anonymous"></script>
 <script>
 	window.setListDuration = 0;
 
@@ -140,11 +136,20 @@ layout: page
 	}
 
 	function updateTitle(event, ui) {
+
+		var ids = window.location.hash.substring(6).split(",");
+		if (!(event && event.target)) {
+			for (var id of ids) {
+				if (/^\d+:\d+$/.test(id)) document.getElementById("stage-time-input").value = id;
+				if (/^\d+$/.test(id)) document.getElementById("song-gap-input").value = id;
+			}
+		}
 		var gapLength = parseInt(document.getElementById("song-gap-input").value);
 		let items = Array.from(document.querySelectorAll("#setlist li"));
 		let totalDuration = items.map(li => parseInt(li.dataset.duration)).reduce((a, c) => a + c + gapLength, 0);
 		document.getElementById("setlist-title").innerHTML = `Set List (${hhmmss(totalDuration)})`;
-		var stageTimeTokens = document.getElementById("stage-time-input").value.split(':');
+		var stageTimeValue = document.getElementById("stage-time-input").value;
+		var stageTimeTokens = stageTimeValue.split(':');
 		var stageTimeHour = parseInt(stageTimeTokens[0]);
 		var stageTimeMinute = parseInt(stageTimeTokens[1]);
 		var songTime = 3600 * stageTimeHour + 60 * stageTimeMinute;
@@ -159,7 +164,7 @@ layout: page
 		document.getElementById("friendly-setlist").innerHTML = setListHtml.join("");;
 
 		let names = items.map(li => li.id).join(",");
-		window.location.hash = "list=" + names;
+		window.location.hash = "list=" + names + ',' + stageTimeValue + ',' + gapLength;
 	}
 	var ids = window.location.hash.substring(6).split(",");
 	var setlist = document.getElementById("setlist");
