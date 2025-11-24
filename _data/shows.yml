@@ -1,3 +1,20 @@
+- isodate: 2026-01-30 23:59:59
+  venue: "PubConf London"
+  city: London
+  country: "GB"
+  url: https://pubconf.io/
+
+- isodate: 2025-12-05 23:59:59
+  venue: Alaus Namai
+  city: Vilnius
+  country: "LT"
+  url: https://linebreakers.band/shows/20251205
+
+- isodate: 2025-11-06 23:59:59
+  venue: Øredev
+  city: Malmö
+  country: "SE"
+  url: https://oredev.org/
 - isodate: 2025-05-23 23:59:59
   venue: Brewgata
   city: Oslo
