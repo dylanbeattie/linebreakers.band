@@ -14,8 +14,8 @@ layout: document
 * **Heather Downing:** Vocals
 * **Vagif Abilov:** Keyboards, backing vocals
 * **Hannes Lowette:** Electric guitar, vocals
-* **Mark Rendle:** Bass guitar
-* **Eli Holderness:** French horn, backing vocals
+* **Emmz Rendle:** Bass guitar
+* **Eli Holderness:** Violin, backing vocals
 
 ### Special Guests
 
@@ -40,6 +40,8 @@ We run the mix over wifi using a Samsung Galaxy tablet with Mixing Station ([mix
 
 ## Summary Requirements
 
+This is our best case scenario; **we are flexible** and if something's not available or likely to be complicated, we can usually figure it out with a bit of notice.
+
 | Quantity | Description                     | Notes                                                                            |
 | -------- | ------------------------------- | -------------------------------------------------------------------------------- |
 | 5        | Shure SM58 vocal mic or similar | Wireless mics are fine as long as we can connect the receivers to our own mixer. |
@@ -57,7 +59,7 @@ We run the mix over wifi using a Samsung Galaxy tablet with Mixing Station ([mix
 * 1 x boom microphone stand
 * 1 x microphone XLR lead 5m+ (unless a wireless mic is provided)
 
-### Mark Rendle: bass guitar, backing vocals
+### Emmz Rendle: bass guitar, backing vocals
 
 * 1 x vocal microphone + boom stand + XLR 5m+
 
@@ -83,7 +85,7 @@ Please allow one hour for setup and soundcheck.
 
 1. Laptop stereo playbacks and HDMI video
 2. Vagif keyboards
-3. Mark bass
+3. Rendle bass
 4. Hannes guitar
 5. Dylan guitar
 6. Guest guitarists if present
@@ -94,7 +96,7 @@ Please allow one hour for setup and soundcheck.
 | Channel | Type | Notes                              |
 | ------- | ---- | ---------------------------------- |
 | 1       | XLR  | Dylan Beattie – vocal microphone   |
-| 2       | XLR  | Mark Rendle – vocal microphone     |
+| 2       | XLR  | Emmz Rendle – vocal microphone     |
 | 3       | XLR  | Vagif Abilov – vocal microphone    |
 | 4       | XLR  | Heather Downing – vocal microphone |
 | 5       | XLR  | Eli Holderness – horn microphone   |
