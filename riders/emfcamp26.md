@@ -5,13 +5,13 @@ layout: document
 
 <a href="/">back to linebreakers.band</a>
 
-# The Linebreakers Tech Rider
+# The Linebreakers Tech Rider: EMF Camp 2026
 
 **The Linebreakers is a loud rock band.** We perform software and technology-themed parody versions of classic rock songs with video playback.
 
 **Contact**: Dylan Beattie dylan@dylanbeattie.net +44 7980 575597
 
-## The Band
+## The Band (Trio Line-up)
 
 * **Dylan Beattie:** Vocals, electric guitar, harmonica, laptop video + playbacks
 * **Emmz Rendle:** Bass guitar
@@ -62,7 +62,7 @@ This is our best case scenario; **we are flexible** and if something's not avail
 
 ### Soundcheck
 
-Please allow one hour for setup and soundcheck.
+ Ideally allow thirty minutes for setup and soundcheck. We use IEMs so can set up and balance the mix without front-of-house audio prior to a short final check.
 
 1. Laptop stereo playbacks and HDMI video
 2. Emmz bass
