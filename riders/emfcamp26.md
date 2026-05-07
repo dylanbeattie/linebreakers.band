@@ -1,7 +1,10 @@
 ---
 layout: document
+
 ---
+
 <a href="/">back to linebreakers.band</a>
+
 # The Linebreakers Tech Rider
 
 **The Linebreakers is a loud rock band.** We perform software and technology-themed parody versions of classic rock songs with video playback.
@@ -63,10 +66,10 @@ Please allow one hour for setup and soundcheck.
 
 1. Laptop stereo playbacks and HDMI video
 2. Emmz bass
-4. Hannes guitar
-5. Dylan guitar
-6. Guest guitarists if present
-7. Vocals
+3. Hannes guitar
+4. Dylan guitar
+5. Guest guitarists if present
+6. Vocals
 
 ### Mixer Channels
 
