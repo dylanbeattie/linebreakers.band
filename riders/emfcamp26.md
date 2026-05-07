@@ -30,35 +30,13 @@ There must be wired HDMI available on the stage, connected to a projector screen
 
 **We use our own mixer** (Behringer X Air XR16) and in-ear monitors, with DI for all electric instruments. We ask the venue to provide AC power, front-of-house PA and wired HDMI for video playbacks.
 
-We run the mix over wifi using a Samsung Galaxy tablet with Mixing Station ([mixingstation.app](https://mixingstation.app/)) software.  We're happy to give this to the venue engineer so they can run the mix on the night.
+We run the mix over wifi using a Samsung Galaxy tablet with Mixing Station ([mixingstation.app](https://mixingstation.app/)) software.  We're happy to give this to the venue engineer so they can run the front-of-house mix on the night.
 
-## Summary Requirements
-
-This is our best case scenario; **we are flexible** and if something's not available or likely to be complicated, we can usually figure it out with a bit of notice.
-
-| Quantity | Description                     | Notes                                                        |
-| -------- | ------------------------------- | ------------------------------------------------------------ |
-| 3        | Shure SM58 vocal mic or similar | Wireless mics are fine as long as we can connect the receivers to our own mixer. |
-| 3        | XLR cables                      | If mics are wired, please provide 5 x XLR cables long enough to cross the stage. |
-| 3        | Boom-style microphone stands    | Dylan, Eli, Emmz                                             |
-| 3        | 240vAC electrical points        | 1 stage right front 1 stage centre rear, 1 stage right rear  |
-| 1        | Wired HDMI video feed           | Dylan laptop – front stage centre                            |
-| 1        | Feed to house PA (stereo)       | 2 x XLR                                                      |
-
-### Dylan Beattie: lead vocals, lead guitar, harmonica, laptop (audio + video playback)
-
-* 1 x wired HDMI for laptop video playback. The video feed must be wired HDMI – USB, WiFi or “click share” systems introduce too much latency to the video stream. The laptop must be on stage in front of Dylan.
-* 1 x vocal microphone Shure SM58 or similar
-* 1 x boom microphone stand
-* 1 x microphone XLR lead 5m+ (unless a wireless mic is provided)
-
-### Emmz Rendle: bass guitar, backing vocals
-
-* 1 x vocal microphone + boom stand + XLR 5m+
-
-### Eli Holderness (violin + vocals)
-
-* 1 x vocal microphone + stand + XLR 5m+
+| Quantity | Description               | Notes                                                        |
+| -------- | ------------------------- | ------------------------------------------------------------ |
+| 3        | 240vAC electrical points  | 1 stage right front <br />1 stage centre rear<br />1 stage right rear |
+| 1        | Wired HDMI video feed     | Dylan laptop – front stage centre                            |
+| 1        | Feed to house PA (stereo) | 2 x XLR                                                      |
 
 ### Soundcheck
 
