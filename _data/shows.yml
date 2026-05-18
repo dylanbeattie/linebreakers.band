@@ -1,3 +1,8 @@
+- isodate: 2026-06-04 23:59:59
+  venue: Mojo
+  city: Copenhagen
+  country: "DK"
+  url: https://www.facebook.com/events/948169631374611/
 - isodate: 2026-01-30 23:59:59
   venue: "PubConf London"
   city: London
