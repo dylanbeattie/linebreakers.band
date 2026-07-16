@@ -2,11 +2,11 @@
 layout: page
 ---
 <article class="tour-dates">
-	<h1>Live @ Mojo, 4th June 2026</h1>
-	<img src="/shows/20260604-mojo-dk.jpg" style="max-width: 80%; margin: 0px auto; display: block;" />
-	<p>Mojo, Løngangsstræde 21C, 1468 København </p>
-	<p>Thursday 4th June 2026, 18:00-23:00.</p>
-	<h2>FREE ENTRY</h2>
+	<h1>Live @ EMF Camp, 18th July 2026</h1>
+	<img src="/shows/linebreakers-live-at-emf-camp-2026.jpg" style="max-width: 80%; margin: 0px auto; display: block;" />
+	<p>Stage D @ EMF Camp</p>
+	<p>Sunday 18th July 2027, 19:30-23:00.</p>
+
 	<hr />
 	{% assign new_shows = site.data.shows | where_exp: 'show', 'show.isodate >= site.time' | sort: 'isodate' %}
 	{% assign years = new_shows | group_by_exp: "show", "show.isodate | date: '%Y'" %}
