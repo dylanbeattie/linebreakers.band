@@ -52,7 +52,7 @@ layout: page
 			{% assign showdate = show.isodate | date: "%s" -%}
 			{% if showdate > mar2020 and showdate < dec2020 -%}
 				{% assign day=show.isodate | date: "%j" | minus: 60 -%}
-				<span class="show-date">
+				<span class="show-date" title="you remember... March 2020 just went on, and on, and on, and on...">
 				{{ show.isodate | date: "%a" }} {{ day }} Mar
 				</span>
 				{% else -%}

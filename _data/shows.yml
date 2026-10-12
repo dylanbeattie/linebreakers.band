@@ -1,9 +1,33 @@
-- isodate: 2027-07-18 19:30:00
+- isodate: 2026-11-04 19:30:00
+  venue: "Alaus Namai"
+  city: Vilnius
+  country: "LT"
+  url: https://buildstuff.events/
+
+- isodate: 2026-11-03 19:30:00
+  venue: "Build Stuff"
+  city: Vilnius
+  country: "LT"
+  url: https://buildstuff.events/
+
+- isodate: 2026-10-22 19:30:00
+  venue: "Hello Stavanger after-party"
+  city: Stavanger
+  country: "NO"
+  url: https://www.hellostavanger.no/
+
+- isodate: 2026-10-21 19:30:00
+  venue: "Hello Stavanger"
+  city: Stavanger
+  country: "NO"
+  url: https://www.hellostavanger.no/
+
+- isodate: 2026-07-18 19:30:00
   venue: "EMF Camp"
   city: Eastnor Deer Park
   country: "GB"
   url: https://www.emfcamp.org/schedule/2026/283-the-linebreakers
-  
+
 - isodate: 2026-06-04 23:59:59
   venue: Mojo
   city: Copenhagen

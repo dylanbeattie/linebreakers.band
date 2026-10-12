@@ -4,7 +4,7 @@ title: Bug in the JavaScript
 original_title: Piano Man
 original_artist: Billy Joel
 layout: song
-dropbox: https://www.dropbox.com/scl/fi/k3dlvwtb6a3eyjjmptcge/Bug-in-the-JavaScript-Solo-Mix.mp4?rlkey=q6flw2gugv50di3eikaap3uno&dl=1
+dropbox: https://www.dropbox.com/scl/fi/f476r6rkmril7ps7dj6yg/Bug-in-the-JavaScript-G.mp4?rlkey=wgrbdu9m5oicfmlfkpbh2wl5x&dl=1
 duration: 5:39
 vocal: Dylan
 class: ballad
